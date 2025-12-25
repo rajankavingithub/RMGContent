@@ -1,21 +1,6 @@
-#EXTM3U
-#EXTINF:-1 group-title="live" tvg-type="live" ,NATIONAL GEOGRAPHIC 
+#EXTINF:-1 tvg-type="live" tvg-logo="http://url_of_poster.jpg" group-title="Live Events",Channel 1
 http://119.152.240.15:8000/play/a0i2/index.m3u8
-#EXTINF:-1 group-title="live" tvg-type="live" ,NET WILD INDIA
-http://103.182.170.32:8888/play/a01r
-#EXTINF:-1 tvg-id="354" tvg-logo="http://103.175.242.10/assets/images/National%20Geographic1731468376.png" group-title="live" tvg-type="live",National Geographic 
-http://stvlive.net:8080/natgeo/index.m3u8
-#EXTINF:-1 tvg-id="315" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max1731407620.png" group-title="live" tvg-type="live",Sony Max
-http://stvlive.net:8080/sonymax/index.m3u8
-#EXTINF:-1 tvg-id="242" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max%2021731072187.png" group-title="live" tvg-type="live",Sony Max 2
-http://stvlive.net:8080/sonymax2/index.m3u8
-#EXTINF:-1 group-title="live" tvg-type="live" ,DISCOVERY TURBO
-http://163.61.227.29:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="live" tvg-type="live" ,DISCOVERY SCIENCE
-http://66.102.120.18:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="live" tvg-type="live" ,INVESTIGATION DISCOVERY
-http://119.152.240.15:8000/play/a0ke/index.m3u8
-#EXTINF:-1 group-title="live" tvg-type="live" ,National Geographic
+#EXTINF:-1 tvg-type="live" tvg-logo="http://url_of_poster.jpg" group-title="Live Events",Channel 2
 http://119.152.240.15:8000/play/a0i2/index.m3u8
-#EXTINF:-1 group-title="live" tvg-type="live" ,National Geographic
+#EXTINF:-1 tvg-type="live" tvg-logo="http://url_of_poster.jpg" group-title="Live Events",Channel 3
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
