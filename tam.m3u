@@ -3,24 +3,12 @@
 http://119.152.240.15:8000/play/a0i2/index.m3u8
 #EXTINF:-1 group-title="live" ,NET WILD INDIA
 http://103.182.170.32:8888/play/a01r
-#EXTINF:-1 tvg-id="ts245" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="live",STAR GOLD HD 
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd/index.ts
-#EXTINF:-1 tvg-id="ts632" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="live",Star GOLD HD 
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd-2/index.ts
-#EXTINF:-1 tvg-id="ts80" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="live",SONY MAX HD 
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-max-hd/index.ts 
 #EXTINF:-1 tvg-id="354" tvg-logo="http://103.175.242.10/assets/images/National%20Geographic1731468376.png" group-title="live",National Geographic 
 http://stvlive.net:8080/natgeo/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png" group-title="live",Animal Planet HD
-https://allottplay.com/tv/toffee/live.php?id=animal_planet_hd&e=.m3u8
 #EXTINF:-1 tvg-id="315" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max1731407620.png" group-title="live",Sony Max
 http://stvlive.net:8080/sonymax/index.m3u8
 #EXTINF:-1 tvg-id="242" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max%2021731072187.png" group-title="live",Sony Max 2
 http://stvlive.net:8080/sonymax2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="live",Star Plus HD
-http://217.20.112.199/starplushd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png" group-title="live",Sony TV HD
-http://xtv.ooo:8080/danyear12/am809100/66164
 #EXTINF:-1 group-title="live" ,DISCOVERY TURBO
 http://163.61.227.29:8000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="live" ,DISCOVERY SCIENCE
@@ -31,7 +19,3 @@ http://119.152.240.15:8000/play/a0ke/index.m3u8
 http://119.152.240.15:8000/play/a0i2/index.m3u8
 #EXTINF:-1 group-title="live" ,National Geographic
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="live" tvg-logo="https://i.postimg.cc/sfZsrWst/20240823_023726.png",Wild Earth
-https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="live",4k Nature
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
