@@ -1,50 +1,5 @@
 #EXTM3U
 
-# Tamil Movies
-
-#EXTINF:-1 tvg-id="KTV.in@SD" tvg-logo="https://i.imgur.com/G4fFx53.png" group-title="Tamil Movies",KTV (1080p)
-http://87.255.35.150:18805
-#EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.imgur.com/vmHfPD8.png" group-title="Tamil Movies",Zee Thirai (1080p)
-http://87.255.35.150:18597
-#EXTINF:-1 tvg-id="VijaySuper.in@HD" tvg-logo="https://i.imgur.com/3MWm9nD.png" group-title="Tamil Movies",Vijay Super HD (1080p)
-http://87.255.35.150:18954
-#EXTINF:-1 tvg-id="2255" group-title="Tamil" tvg-logo="https://mw.qwertzqay.su//img/logo/android/7/2255.7.1.png",Raj Digital Plus
-http://87.255.35.150:18478/index.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i9ct2MX.png" group-title="Tamil Movies",Rasi TV
-https://rasinetworks.in/live/rasitamilhd/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil Movies",Rasi Movies
-https://rasinetworks.in/live/rasicinemahd/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil Movies",Rasi Movies plus
-https://rasinetworks.in/live/rasicinemaxhd/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil Movies",Rasi Classic
-https://rasinetworks.in/live/rasiclassichd/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil Movies",Rasi Hollywood
-https://rasinetworks.in/live/rasihollywoodhd/index.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil Movies",Rasi Movies HD
-https://rasinetworks.in/live/rasimovieshd/index.mpd
-#EXTINF:-1 group-title="Tamil Movies" tvg-logo="https://i.imgur.com/0ApLXUi.png",Roja Movies
-https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i9ct2MX.png" group-title="Tamil Movies",Rasi TV 2
-https://rasinetworks.in/live/rasitvhd/index.mpd
-#EXTINF:-1 group-title="Tamil Movies" tvg-logo="https://i.imgur.com/0ApLXUi.png",Max Movies
-https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
-#EXTINF:-1 group-title="Tamil Movies" tvg-logo="https://i.imgur.com/0ApLXUi.png",Sana tv
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sana-tv/index.m3u8
-#EXTINF:-1 group-title="Tamil Movies" tvg-logo="https://i.imgur.com/0ApLXUi.png",Sana Plus tv
-https://galaxyott.live//hls/sanaplus.m3u8
-#EXTINF:-1 tvg-id="SanaPlus.in@SD" tvg-logo="https://i.imgur.com/N6tKUZv.png" group-title="Tamil Movies",Sana Plus (1080p) [Not 24/7]
-https://galaxyott.live/hls/sanaplus.m3u8
-#EXTINF:-1 tvg-id="SanaTV.in@SD" tvg-logo="https://i.imgur.com/CR7DGBv.png" group-title="Tamil Movies",Sana TV (576p) [Not 24/7]
-https://galaxyott.live/hls/sanatv.m3u8
-#EXTINF:-1 group-title="Tamil Movies" tvg-logo="https://i.imgur.com/0ApLXUi.png",Thillai tv
-https://stream.onecloudlive.in/tcn/tcntv/index.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-chno="54" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="Movies",Pluto TV Action
 Http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -116,8 +71,6 @@ http://151.80.18.177:86/National_Geo_HD/index.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",4k Nature
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-
-
 # Kids
 #EXTINF:-1 tvg-logo="" group-title="Kids",Nicklodean
 https://tvsen7.aynaott.com/nicklodean/index.m3u8
