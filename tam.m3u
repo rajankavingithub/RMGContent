@@ -11,16 +11,13 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/in
 http://103.140.254.2:3500/live/803.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Raj musix
 http://103.140.254.2:3500/live/748.m3u8
-#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Raj News
-http://103.140.254.2:3500/live/767.m3u8
+
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Adithya TV
 http://103.140.254.2:3500/live/709.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Sun Life  
 http://103.140.254.2:3500/live/682.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Raj Digital Plus
 http://103.140.254.2:3500/live/683.m3u8
-#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Sun News
-http://103.140.254.2:3500/live/676.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Chutti TV
 http://103.140.254.2:3500/live/557.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Caption TV
@@ -29,10 +26,6 @@ http://103.140.254.2:3500/live/3069.m3u8
 https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Colors Tamil
 http://103.140.254.2:3500/live/429.m3u8
-#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Tamil Janam
-https://app.ashokadigital.net/app/324ea1b0/index.m3u8
-#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Caption TV
-http://103.140.254.2:3500/live/3069.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",J Movie
 http://103.140.254.2:3500/live/417.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Jaya Tv
@@ -42,6 +35,8 @@ https://103.140.254.2:3500/live/824.m3u8
 #EXTINF:-1 tvg-id="PolimerTV.in@SD" tvg-logo="https://i.imgur.com/BTYagXd.png" group-title="Tamil",Polimer TV (720p)
 https://cdn-2.pishow.tv/live/1241/master.m3u8
 
+#EXTINF:-1 tvg-id="PolimerTV.in@SD" tvg-logo="https://i.imgur.com/BTYagXd.png" group-title="Tamil",Polimer TV (720p)
+https://cdn-2.pishow.tv/live/1241/master.m3u8
 
 
 
@@ -120,6 +115,8 @@ https://galaxyott.live//hls/sanaplus.m3u8
 https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 tvg-id="SanaTV.in@SD" tvg-logo="https://i.imgur.com/CR7DGBv.png" group-title="Tamil Movies",Sana TV (576p) [Not 24/7]
 https://galaxyott.live/hls/sanatv.m3u8
+#EXTINF:-1 tvg-id="UltimateTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-10/2511103396001.jpg" group-title="Tamil Movies",Ultimate TV (1080p)
+https://stream.galaxyott.live/live/utv/index.m3u8
 #EXTINF:-1 group-title="Tamil Movies" tvg-logo="",Thillai tv
 https://stream.onecloudlive.in/tcn/tcntv/index.m3u8
 
@@ -133,27 +130,15 @@ https://stream.onecloudlive.in/tcn/tcntv/index.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="",Roja Tv
 https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Tamil",Disney Channel (576p) [Not 24/7]
-http://66.102.120.18:8000/play/a070/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Tamil",Disney Channel HD (1080p)
-http://66.102.120.18:8000/play/a013/index.m3u8ife
-#EXTINF:-1 tvg-id="Gubbare.in@SD" tvg-logo="https://i.imgur.com/Bvbf9o7.png" group-title="Tamil",Gubbare (1080p)
-https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://i.imgur.com/zNJKdRf.png" group-title="Tamil",History TV18 HD (1080p) [Geo-blocked]
-https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/512px-Hungama_TV.svg.png" group-title="Tamil",Hungama TV (576p)
-http://87.255.35.150:18811
+
 #EXTINF:-1 tvg-id="IBCTamil.uk@SD" tvg-logo="https://i.postimg.cc/K8kgN7bt/ibctamil.png" group-title="Tamil",IBC Tamil (1080p)
 https://ibc.massstream.net/IBC/index.m3u8
 
 
-#EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="https://i.imgur.com/Pgp3EXM.png" group-title="News",Kalaignar Seithikal (576p) [Not 24/7]
-http://87.255.35.150:18837
 
-#EXTINF:-1 tvg-id="MNaduTV.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m-nadu-tv-in.png" group-title="News",M Nadu TV (576p)
-http://202.164.50.194:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" tvg-logo="https://i.imgur.com/M92IDhq.png" group-title="News",Malai Murasu TV (720p) [Not 24/7]
-https://cdn-3.pishow.tv/live/1606/master.m3u8
+
+
+
 #EXTINF:-1 tvg-id="MalarTV.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png" group-title="Tamil",Malar TV (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/473/master.m3u8
 
@@ -167,18 +152,14 @@ https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/inde
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NethraTV.lk@SD" tvg-logo="https://i.imgur.com/vSrIN1U.jpg" group-title="Tamil",Nethra eye TV (360p)
 https://edge3-moblive.yuppcdn.net/transsd/smil:chii02.smil/playlist.m3u8?dvr=
-#EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-logo="https://i.imgur.com/RqeF8RR.png" group-title="News",News J (720p)
-https://cdn-3.pishow.tv/live/1279/master.m3u8
-#EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="News",News Tamil 24x7 (1080p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="PeppersTV.in@SD" tvg-logo="https://i.imgur.com/5PyJj2n.png" group-title="Tamil",Peppers TV (751p)
 https://cdn-2.pishow.tv/live/1383/master.m3u8
-#EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="News",Polimer News (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0lg/index.m3u8
 
-#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-logo="https://i.imgur.com/Hgp4sQq.png" group-title="News",Puthiya Thalaimurai (576p)
-https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="PuthuyugamTV.in@SD" tvg-logo="https://i.imgur.com/HjwKtSJ.png" group-title="Tamil",Puthuyugam TV (576p) [Not 24/7]
 http://103.140.254.2:3500/live/824.m3u8
 
@@ -425,11 +406,6 @@ https://live1.sscloud7.com/live/smileytv/index.m3u8
 https://stream.galaxyott.live/live/subintv/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-logo="https://i.imgur.com/200ROjU.png" group-title="News",Thanthi TV (576p)
-https://cdn-3.pishow.tv/live/1612/master.m3u8
-#EXTINF:-1 tvg-id="UltimateTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-10/2511103396001.jpg" group-title="Tamil",Ultimate TV (1080p)
-https://stream.galaxyott.live/live/utv/index.m3u8
 #EXTINF:-1 tvg-id="VaanavilTV.in@SD" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="Tamil",Vaanavil TV (720p)
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WinTV.in@SD" tvg-logo="https://i.imgur.com/xQutJMq.png" group-title="Tamil",Win TV (720p)
@@ -496,8 +472,6 @@ https://allottplay.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
 https://tvsen5.aynaott.com/snTn1HD/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen1.in@SD" group-title="Sports",Sony Ten 1 s4
 http://66.102.120.18:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Sports",Sony Ten 1 s5
-http://66.102.120.18:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Sony Ten 1 s6
 http://cors.tundracast.com:2000/http://103.60.204.26:3255/SonytenSports1HD/index.m3u8
 #EXTINF:-1 tvg-id="319"  group-title="Sports" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2021731408024.png",Sony Ten 2 
@@ -665,6 +639,8 @@ http://66.102.120.18:8000/play/a014/index.m3u8
 http://66.102.120.18:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="Movies" ,Zee Cafe s2
 http://103.182.170.32:8888/play/a01w
+#EXTINF:-1 group-title="Movies",&xplor HD
+http://66.102.120.18:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="Movies",&prive
 http://163.61.227.29:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="Andflix.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/512px-%26flix_2025.svg.png" group-title="Movies",&flix
@@ -913,6 +889,8 @@ https://allottplay.com/tv/toffee/live.php?id=animal_planet_hd&e=.m3u8
 http://66.102.120.18:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="Information" ,Animal Planet s3
 http://103.140.254.2:3500/live/567.m3u8
+#EXTINF:-1 group-title="Information" ,DISCOVERY SCIENCE
+http://103.140.254.2:3500/live/568.m3u8
 #EXTINF:-1 tvg-id="354" tvg-logo="http://103.175.242.10/assets/images/National%20Geographic1731468376.png" group-title="Information",National Geographic 
 http://stvlive.net:8080/natgeo/index.m3u8
 #EXTINF:-1 group-title="Information" ,National Geographic s2 
@@ -925,7 +903,8 @@ http://66.102.120.18:8000/play/a01f/index.m3u8
 http://103.182.170.32:8888/play/a01r
 
 
-
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://i.imgur.com/zNJKdRf.png" group-title="Information",History TV18 HD (1080p) [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="Information",Star Plus HD
@@ -948,13 +927,68 @@ https://wildearth-plex.amagi.tv/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 
 
+# news
+
+#EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="News",Polimer News (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0lg/index.m3u8
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-logo="https://i.imgur.com/Hgp4sQq.png" group-title="News",Puthiya Thalaimurai (576p)
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+#EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-logo="https://i.imgur.com/200ROjU.png" group-title="News",Thanthi TV (576p)
+https://cdn-3.pishow.tv/live/1612/master.m3u8
+#EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="News",News Tamil 24x7 (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
+
+#EXTINF:-1 tvg-id="MNaduTV.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m-nadu-tv-in.png" group-title="News",M Nadu TV (576p)
+http://202.164.50.194:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" tvg-logo="https://i.imgur.com/M92IDhq.png" group-title="News",Malai Murasu TV (720p) [Not 24/7]
+https://cdn-3.pishow.tv/live/1606/master.m3u8
+#EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-logo="https://i.imgur.com/RqeF8RR.png" group-title="News",News J (720p)
+https://cdn-3.pishow.tv/live/1279/master.m3u8
+#EXTINF:-1 tvg-id="TamilJanam.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Janam_Tamil.png" group-title="News",Tamil Janam (720p)
+https://app.ashokadigital.net/app/324ea1b0/index.m3u8
+
+
+
+
 # Kids
+
+#EXTINF:-1 tvg-id="Chithiram.in@SD" tvg-logo="https://i.imgur.com/xv9cWSh.png" group-title="Kids",Chithiram (576p)
+https://cdn-6.pishow.tv/live/1243/master.m3u8
 #EXTINF:-1 group-title="Kids" ,Pogo
 http://66.102.120.18:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Pogo
+http://103.140.254.2:3500/live/559.m3u8
 #EXTINF:-1 group-title="Kids" ,POGO s2
 http://103.182.170.32:8888/play/a02p
-#EXTINF:-1 group-title="Kids",POGO s3
-http://103.140.254.2:3500/live/559.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel (576p) [Not 24/7]
+http://66.102.120.18:8000/play/a070/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney Channel HD (1080p)
+http://66.102.120.18:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="Gubbare.in@SD" tvg-logo="https://i.imgur.com/Bvbf9o7.png" group-title="Kids",Gubbare (1080p)
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network 1
+http://103.140.254.2:3500/live/1079.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network 2
+http://103.140.254.2:3500/live/816.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids 1
+https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids  2
+http://103.140.254.2:3500/live/554.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick 1
+http://103.140.254.2:3500/live/545.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick 2
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick HD+
+http://103.140.254.2:3500/live/1226.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick Jr.
+http://103.140.254.2:3500/live/544.m3u8
+
 #EXTINF:-1 group-title="Kids",SONIC
 http://103.140.254.2:3500/live/815.m3u8
 #EXTINF:-1 group-title="Kids", CARTOON NETWORK
@@ -1159,52 +1193,36 @@ https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m
 
 
 #EXTINF:-1 group-title="Hindi Music", Bollywood 90's Music
-#EXTGRP:Music
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1 group-title="Hindi Music",T-Series
-#EXTGRP:Music
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Music",B4U Music APAC
-#EXTGRP:Music
 https://app.hughag.store/api/60fb3f6a8b/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Music",B4U Music
-#EXTGRP:Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:-1 group-title="Hindi Music",Mastiii
-#EXTGRP:Music
 https://mumt02.tangotv.in/MASTIII/index.m3u8
 #EXTINF:-1 group-title="Hindi Music", Show Box
-#EXTGRP:Music
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-1 group-title="Hindi Music", Hindi Hits
-#EXTGRP:Music
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 group-title="Hindi Music", Vision Beats
-#EXTGRP:Music
 http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Music", Zoom
-#EXTGRP:Music
 https://b.jsrdn.com/strm/channels/zoom/master.m3u8
 #EXTINF:-1 group-title="Hindi Music", Zoom US
-#EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:-1 group-title="Hindi Music",9XM
-#EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
 #EXTINF:-1 group-title="Hindi Music",9X Jalwa
-#EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 #EXTINF:-1 group-title="Hindi Music", Music India
-#EXTGRP:Music
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 group-title="Hindi Music",YRF Music
-#EXTGRP:Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
 #EXTINF:-1 group-title="Hindi Music", E24
-#EXTGRP:Music
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_1824k.m3u8
 #EXTINF:-1 group-title="Hindi Music", MTV HD
-#EXTGRP:Music
 http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=280760&extension=ts&play_token=JmL81Phrsp
 
 
