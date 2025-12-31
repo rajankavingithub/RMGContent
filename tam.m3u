@@ -675,6 +675,30 @@ http://103.182.170.32:8888/play/a02a
 http://66.102.120.18:8000/play/a022/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="AndpriveHD.in@SD",&prive HD (1080p)
 http://163.61.227.29:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="",Sony Action Hits
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="",Sony Comedy Hits
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="",Sony Comedy Tv
+https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Sony One Series Triller
+https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Sony one Comedie
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Sony one Action
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Sony One Favoris
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",Sony One Blaklist
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AMC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East (1080p)
 #EXTINF:-1 tvg-id="iFilmEnglish.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",iFilm English
 https://live.presstv.ir/hls/ifilmen.m3u8
@@ -696,8 +720,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814517/hls/master.m3u8
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814502/hls/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="",Newflix Movies
 source=https://newfhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="",Sony Movies
-https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="",HBO Movies
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="",HBO Hits
@@ -724,12 +747,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957&id=24148&type=mp4
 https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/playlist/videosolu-w4freemovies-samsunguk/playlist.m3u8&id=23371&type=mp4
 #EXTINF:-1 group-title="Movies" tvg-logo="",AMC plus
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_1/chunklist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="",Sony Action Hits
-https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="",Sony Comedy Hits
-https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="",Sony Comedy Tv
-https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="",Xumo Movies
 https://d3fmqi91qduj7.cloudfront.net/11401/88814534/hls/master.m3u8?ads.xumo_channelId=88814534&ads.xumo_streamId=88814534&id=21756&type=mp4
 
