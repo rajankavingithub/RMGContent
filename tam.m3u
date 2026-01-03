@@ -727,7 +727,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 group-title="Hindi Movies" , MANORANJAN MOVIES
 https://cdn-2.pishow.tv/live/228/master.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in@APAC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Cinema APAC
+#EXTINF:-1 tvg-id="ZeeCinema.in@APAC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Cinema HD
 https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Zee Cinema s2
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
@@ -755,6 +755,41 @@ https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://cdn-4.pishow.tv/live/233/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooBollywood.us@SD" tvg-logo="https://i.imgur.com/TFxLj80.png" group-title="Hindi Movies",Shemaroo Bollywood (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",Hiff Movies
+https://desitashantv.livebox.co.in/hiffmovieshls/hiffmovies.m3u8
+#EXTINF:-1 group-title="Hindi Movies",Zee South Movies
+https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Movies",Super Fin Movies
+https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Hindi Movies",Packet Movies
+https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",NH BollyFlix
+https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,nhbollyflixottplay.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",Xumo Bollywood & Indian Cinema
+https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756&id=18539&type=mp4
+
+#EXTINF:-1 group-title="Hindi Movies",Bollywood Masala
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
+#EXTINF:-1 group-title="Hindi Movies",Bollywood 4U
+https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8
+
+#EXTINF:-1 group-title="Hindi Movies",Z CinemaSD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/main.mpd?&keyId=43513b13f4b542e39c9265921dfc1726&key=b0b2678bcd274c37b888a6c987d502ed
+
+#EXTINF:-1 group-title="Hindi Movies",Z Action SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd?&keyId=9d7a1917ee3244d198193cdd1ff1feae&key=3c3e8d0259f748f1830f713a769760e7
+
+#EXTINF:-1 group-title="Hindi Movies",Z Bollywood SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/main.mpd?&keyId=e61523260c614746b25b9a5523fe9a39&key=72ddbf37f76f49acbb8e140e7279e7a1
+
+
+#EXTINF:-1 group-title="Hindi Movies",Bollywood Classic SD1
+https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 # Hindi Music
 
