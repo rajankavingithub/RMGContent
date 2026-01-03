@@ -578,6 +578,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Charge.us@SD" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Movies",Charge! (1080p)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us@SD" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="Movies",MyTime Movie Network (1080p)
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ParamountPlusPicks.us@SD" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="Movies",Paramount+ Picks
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
+
+
+
 #EXTINF:-1 tvg-id="NationalGeographic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic East
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 
@@ -690,22 +697,16 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 # Hindi Movies
 
 
-#EXTINF:-1 group-title="Hindi Movies" ,Sony Max s3
+#EXTINF:-1 group-title="Hindi Movies" ,Sony Max s1
 http://103.182.170.32:8888/play/a04f
 
-#EXTINF:-1 tvg-id="ts80" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="Hindi Movies",Sony Max s5
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-max-hd/index.ts
-#EXTINF:-1 tvg-id="315" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max1731407620.png" group-title="Hindi Movies",Sony Max s5
+#EXTINF:-1 tvg-id="315" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max1731407620.png" group-title="Hindi Movies",Sony Max s2
 http://stvlive.net:8080/sonymax/index.m3u8
 #EXTINF:-1 tvg-id="242" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max%2021731072187.png" group-title="Hindi Movies",Sony Max 2
 http://stvlive.net:8080/sonymax2/index.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" ,STAR GOLD HD
 http://103.182.170.32:8888/play/a02j
-#EXTINF:-1 tvg-id="ts245" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Hindi Movies",STAR GOLD HD 
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd/index.ts
-#EXTINF:-1 tvg-id="ts632" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="Hindi Movies",Star GOLD HD 
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd-2/index.ts
 
 #EXTINF:-1 group-title="Hindi Movies" ,STAR GOLD 2
 http://103.182.170.32:8888/play/a02k
@@ -713,16 +714,12 @@ http://103.182.170.32:8888/play/a02k
 #EXTINF:-1 group-title="Hindi Movies" , Colors Cineplex s2
 http://103.182.170.32:8888/play/a01o
 
-#EXTINF:-1 tvg-id="313" tvg-logo="http://103.175.242.10/assets/images/And%20Picture%201731407396.png" group-title="Hindi Movies",And Pictures
-http://stvlive.net:8080/andpicture/index.m3u8
 
-#EXTINF:-1 group-title="Hindi Movies" group-title="India T" tvg-id="B4UMovies INDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png",B4U Movies s2
+
+#EXTINF:-1 group-title="Hindi Movies" group-title="India T" tvg-id="B4UMovies INDIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 
-#EXTINF:-1 group-title="Hindi Movies" group-title="Hindi Movies" tvg-id="BollywoodClassic.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Bollywood_Clasic_2024.svg",Bollywood Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 group-title="Hindi Movies" group-title="Hindi Movies" tvg-id="BollywoodHD.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Bollywood_HD_2014_alt.svg",Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
 
 #EXTINF:-1 group-title="Hindi Movies" group-title="Hindi Movies" tvg-id="Bollywood.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Bollywood_HD_2014_alt.svg",All Time Movies CD-1
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
@@ -730,33 +727,14 @@ https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 group-title="Hindi Movies" , MANORANJAN MOVIES
 https://cdn-2.pishow.tv/live/228/master.m3u8
-
-
-
-#EXTINF:-1 group-title="Hindi Movies",Zee Cinema HD
-http://103.175.242.10:8080/zeecinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi Movies", Z Cinema
+#EXTINF:-1 tvg-id="ZeeCinema.in@APAC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Cinema APAC
+https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Movies", Zee Cinema s2
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies", Zee Bollywood
-http://212.102.34.8:9080/ZeeBollywood/video.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies", Cinema 1
-http://str24.l9574.com/742.stream/index.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies",Colors Cineplex UK
-https://portal-to-m3u-07.iptv07india.workers.dev/?id=3219&e=m3u8
-
-#EXTINF:-1 group-title="Hindi Movies", Zee Amol Cinema
-https://tiger-hub.vercel.app/Zee__anmoL-Cinema_/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Hindi Movies",Utsav Gold
-http://45.148.145.57/IN_STU/index.m3u8
-
-#EXTINF:-1 group-title="Hindi Movies",Utsav Gold
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-
 #EXTINF:-1 group-title="Hindi Movies",Zee Classic
 http://str24.l9574.com/733.stream/index.m3u8
+#EXTINF:-1 tvg-id="ZeeComedyNation.in@HD" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-title="Hindi Movies",Zee Comedy Nation (1080p)
+https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", B4U Kadak
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 #EXTINF:-1 group-title="Hindi Movies",B4U Movies
@@ -765,33 +743,34 @@ https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/Zeebollywood.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 group-title="Hindi Movies", Bollywood Classics
+#EXTINF:-1 group-title="Hindi Movies", Bollywood Classics sub
 http://103.131.214.129:9985/stream/channelid/687452415?ticket=745F149C11835A0E7168B5B3AE50EAFBD1A505E8&profile=pass
-#EXTINF:-1 group-title="Hindi Movies",Z Bolly
+#EXTINF:-1 group-title="Hindi Movies" group-title="Hindi Movies" tvg-id="BollywoodClassic.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Bollywood_Clasic_2024.svg",Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 group-title="Hindi Movies",Z Bolly Aus
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-id="ZeeCineClassic.in@SD" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Hindi Movies",Zee Cine Classic
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143638_ld_h9_ab.png" group-title="Hindi Movies",Oscar Movies Bhojpuri (720p)
+https://cdn-4.pishow.tv/live/233/master.m3u8
+#EXTINF:-1 tvg-id="ShemarooBollywood.us@SD" tvg-logo="https://i.imgur.com/TFxLj80.png" group-title="Hindi Movies",Shemaroo Bollywood (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 # Hindi Music
 
-
 #EXTINF:-1 group-title="Hindi Music", Bollywood 90's Music
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
-#EXTINF:-1 group-title="Hindi Music",T-Series
-http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Music",B4U Music APAC
 https://app.hughag.store/api/60fb3f6a8b/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Music",B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:-1 group-title="Hindi Music",Mastiii
-https://mumt02.tangotv.in/MASTIII/index.m3u8
+
 #EXTINF:-1 group-title="Hindi Music", Show Box
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-1 group-title="Hindi Music", Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 group-title="Hindi Music", Vision Beats
 http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi Music", Zoom
-https://b.jsrdn.com/strm/channels/zoom/master.m3u8
 #EXTINF:-1 group-title="Hindi Music", Zoom US
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:-1 group-title="Hindi Music",9XM
@@ -802,10 +781,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 group-title="Hindi Music",YRF Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
-#EXTINF:-1 group-title="Hindi Music", E24
-https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_1824k.m3u8
-#EXTINF:-1 group-title="Hindi Music", MTV HD
-http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=280760&extension=ts&play_token=JmL81Phrsp
+
+
 
 
 # News INTERNASIONAL
