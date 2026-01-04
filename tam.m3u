@@ -428,6 +428,11 @@ http://103.167.255.18:8085/play/a0oj/index.m3u8
 
 #EXTINF:-1 tvg-id="360" group-title="Movies" tvg-logo="http://103.175.242.10/assets/images/Star%20Movies1731469513.png",Star Movies 
 http://stvlive.net:8080/starmovies/index.m3u8
+
+#EXTINF:-1 tvg-id="360" group-title="Movies" tvg-logo="https://cdn.oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-31-2025-10_52_34-PM-1-200x300.png",UNIVERSAL Cinema 
+https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-CINEMA-HD/manifest.mpd?&keyId=44a9e6477651b3b47f3a2b727d562835&key=1b87070d9fad5dee0a35ff014a2063a7
+#EXTINF:-1 tvg-id="360" group-title="Movies" tvg-logo="https://cdn.oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-17-2025-10_02_18-PM-1-200x300.png",Star Movies Other
+https://webtvstream.bhtelecom.ba/star_movies.m3u8
 #EXTINF:-1 group-title="Movies" ,Zee Cafe s2
 http://103.182.170.32:8888/play/a01w
 #EXTINF:-1 tvg-id="Andflix.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/512px-%26flix_2025.svg.png" group-title="Movies",&flix
@@ -817,14 +822,28 @@ https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-a
 #EXTINF:-1 tvg-id="ZeeDilSe.in@HD" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Entertainment",Zee Dil Se (1080p)
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 
+#EXTINF:-1 group-title="Hindi Movies" , Big Star Bollywood
+https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8
 
+#EXTINF:-1 group-title="Hindi Movies" , Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Hindi Movies" , Channa chor
+https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b5663d20-93c0-4ea1-9a86-d114a67f75db/main.m3u8
+#EXTINF:-1 group-title="Hindi Movies" , Zee Bolly World
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640
 
+#EXTINF:-1 group-title="Hindi Movies" , & pictures HDD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/main.mpd?&keyId=8dea532cabfe4f71ba20f62310e7949f&key=7a214a974e4f4d1d9bb66364d5f0cb92
 
 # Hindi Music
 
 #EXTINF:-1 group-title="Hindi Music", Bollywood 90's Music
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+
+
+#EXTINF:-1 group-title="Hindi Music", M Tunes Music
+https://ca1.buximedia.com/itv/indian/index.m3u8
 #EXTINF:-1 group-title="Hindi Music",B4U Music APAC
 https://app.hughag.store/api/60fb3f6a8b/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Music",B4U Music
