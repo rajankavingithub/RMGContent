@@ -353,11 +353,14 @@ https://cdn-4.pishow.tv/live/1531/master.m3u8
 
 # Sports 
 
-
+#EXTINF:-1 tvg-id="StarSports2.in@SD"  group-title="Sports" ,Star Sports Select1 (576p)
+http://103.178.78.151:7505/play/a0w8/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@SD"  group-title="Sports" ,Star Sports Select2 (576p)
+http://103.178.78.151:7505/play/a0w9/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2.in@SD"  group-title="Sports" ,Star Sports 2 (576p)
 http://103.167.255.18:8085/play/a0jt/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@SD"  group-title="Sports" ,Star Sports 1 (576p)
-http://103.167.255.18:8085/play/a0ki/index.m3u8
+http://103.178.78.151:7505/play/a0ui/index.m3u8
 #EXTINF:-1 tvg-id="StarSports3.in@SD" group-title="Sports" ,Star Sports 3 (576p)
 http://103.167.255.18:8085/play/a0jm/index.m3u8
 
@@ -413,10 +416,12 @@ https://tvsen6.aynaott.com/asports/index.m3u8
 
 # Movies 
 
-   
-#EXTINF:-1 tvg-id="MoviesNow.in@HD",Movies Now HD (1080p)
+
+#EXTINF:-1 group-title="Movies" tvg-id="MoviesNow.in@HD",Sony pix
+http://103.178.78.151:7505/play/a0vl/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="MoviesNow.in@HD",Movies Now HD (1080p)
 http://103.167.255.18:8085/play/a0lr/index.m3u8
-#EXTINF:-1 tvg-id="MNX.in@SD",MNX (576p)
+#EXTINF:-1 group-title="Movies" tvg-id="MNX.in@SD",MNX (576p)
 http://103.167.255.18:8085/play/a0oj/index.m3u8   
 
 #EXTINF:-1 tvg-id="360" group-title="Movies" tvg-logo="http://103.175.242.10/assets/images/Star%20Movies1731469513.png",Star Movies 
@@ -733,7 +738,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 group-title="Hindi Movies" , MANORANJAN MOVIES
 https://cdn-2.pishow.tv/live/228/master.m3u8
 
-https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Zee Cinema s2
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies",Zee Classic
@@ -753,10 +757,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="Hindi Movies",Z Bolly Aus
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@APAC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Movies",Zee Cinema HD
+https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeCineClassic.in@SD" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Hindi Movies",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143638_ld_h9_ab.png" group-title="Hindi Movies",Oscar Movies Bhojpuri (720p)
-https://cdn-4.pishow.tv/live/233/master.m3u8
+
 #EXTINF:-1 tvg-id="ShemarooBollywood.us@SD" tvg-logo="https://i.imgur.com/TFxLj80.png" group-title="Hindi Movies",Shemaroo Bollywood (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
