@@ -355,6 +355,47 @@ https://cdn-4.pishow.tv/live/1531/master.m3u8
 
 # Sports 
 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
+https://d8.merichunidya.com:1686/hls/star1in.m3u8?md5=c7B8cXWr6iemEOXOLHUe1w&expires=1767716560|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",Sky Sport Nz 1
+https://d7.merichunidya.com:1686/hls/sky1nz.m3u8?md5=If4xnnkuqvQzOt_fJBD5Cw&expires=1767716563|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",TNT 1
+https://d6.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=TGvz7z7IKn_wg6OZa1QlmA&expires=1767716562|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png",Willow HD
+https://d7.merichunidya.com:1686/hls/willowusa.m3u8?md5=asBpH8CzgXM3op0AZGfhiA&expires=1767716561|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png",Willow HD 2
+https://d5.merichunidya.com:1686/hls/willowextra.m3u8?md5=GRZUxOzuWbqx320ilbwX6w&expires=1767716561|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",TNT 1
+https://d6.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=TGvz7z7IKn_wg6OZa1QlmA&expires=1767716562|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",TNT 2
+https://d10.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=GEGuFMTvgoh4a5ztSRGx-w&expires=1767716562|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",TNT 3
+https://d7.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=1Z65HhFvcl2SPldr55ScEQ&expires=1767716562|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",TNT 4
+https://d2.merichunidya.com:1686/hls/bbtespn.m3u8?md5=_bvYYnHv8-xOHAAWSJ4-TQ&expires=1767716563|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/6-by-xfireflix.png",Fox Cricket 501 HD
+https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=08zBx7TDrcYJp-BoruNUbQ&expires=1767716566|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
+
+
+#EXTINF:-1 tvg-id="StarSports1.in@SD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 (576p)
+http://103.167.255.18:8085/play/a0ki/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD (1080p)
+http://103.178.78.151:7505/play/a0ui/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2 (576p)
+http://103.167.255.18:8085/play/a0jt/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2 HD (1080p)
+http://103.167.255.18:8085/play/a0jj/index.m3u8
+
 #EXTINF:-1 tvg-id="StarSports2.in@SD"  group-title="Sports" ,Star Sports Select1 (576p)
 http://103.178.78.151:7505/play/a0w8/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2.in@SD"  group-title="Sports" ,Star Sports Select2 (576p)
@@ -819,8 +860,9 @@ https://ultrashort.info/i3WrCc
 #EXTINF:-1 tvg-id="AndTV.in@International" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&TV International (1080p)
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZeeDilSe.in@HD" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Entertainment",Zee Dil Se (1080p)
-https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Hindi Movies" , Big Star Bollywood
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8
@@ -866,6 +908,12 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 group-title="Hindi Music",YRF Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
 
+# Entertainment
+
+#EXTINF:-1 tvg-id="ZeeDilSe.in@HD" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Entertainment",Zee Dil Se (1080p)
+https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeHorrorNights.in@HD" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="Entertainment",Zee Horror Nights (1080p)
+https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
 
 
 
