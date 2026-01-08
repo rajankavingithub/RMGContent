@@ -55,21 +55,46 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/in
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="MKSix.in@SD" tvg-logo="https://i.imgur.com/wZjEssv.png" group-title="Tamil Music",MK Six (720p)
 https://cdn-3.pishow.tv/live/1253/master.m3u8
-#EXTINF:-1 group-title="Tamil Music" tvg-logo="",V Muziq HD
-https://app.ashokadigital.net/vmusic/vmusic/index.m3u8
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_00_53-AM-1-185x278.png",7Star Music
+https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-08_23_30-AM-1-200x300.png",V Muziq HD
+https://stream.ashokadigital.net/vmusic/vmusic/index.m3u8
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="",params Tv
+https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="",rk Tv
+http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="",thirai issai
+https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
+#EXTINF:-1 tvg-id="ShakthiTV.lk@SD" tvg-logo="" group-title="Tamil Music",Shakthi TV
+https://live.sscloud7.in/live/sakthitv/index.m3u8
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="",King Tv
+https://notvstream.in/kingtv/kingtv.m3u8
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="",harin HD Tv
+https://ipcloud.live/harintv/harintvhd/index.m3u8
+#EXTINF:-1 group-title="Tamil Music" tvg-id="VTV" tvg-logo="https://play-lh.googleusercontent.com/YUc9M2Gii20Jy5a-dpmR6958-2c1wOMYyO0Jddy9nDqyIp0KdvF8s17sLdzD4ECg4Ws=w480-h960-rw",V TV
+https://play.applelive.in/vtv/vtv.m3u8
 
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-12-2025-12_15_57-PM-1-200x300.png",Temple TV
+https://app.ashokadigital.net/app/2666f7b8/index.m3u8
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-10_18_47-PM-1-1-200x300.png",Chen Plus
+https://view.apserver.in/tmp_hls7/chenplus/index.m3u8
+
+
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_49_49-PM-1-200x300.png",MR Tv
+https://view.apserver.in/tmp_hls8/mrtv/index.m3u8
+
+#EXTINF:-1 tvg-id="JCVMusix" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/jcv%20musix.gif" group-title="Tamil Music",JCV Musix
+https://play.applelive.in/jcvtv/jcvmusix.m3u8
 #EXTINF:-1 tvg-id="ShakthiTV.lk@SD" tvg-logo="" group-title="Tamil Music",thalapathy tv
 https://play.applelive.in/thalapathytv/thalapathytv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil Music",Rasi Music
 https://rasinetworks.in/live/rasimusichd/index.mpd
-#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://i.imgur.com/EaHWWNl.jpg",7Star Music
-https://app.ashokadigital.net/app/9346e98d/index.m3u8
+#EXTINF:-1 group-title="Tamil Music",SS Music
+http://stream.advikadigital.in/advika/ssmusic/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",RC Music
 https://view.rcserver.in/tmp_hls2/stream/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",jcv Music
 https://play.applelive.in/jcvtv/jcvmusix.m3u8
-#EXTINF:-1 group-title="Tamil Music" tvg-logo="",thirai issai
-https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",g music
 https://rtmp.applelive.in/gmusic/gmusic/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",Mtc Tv
@@ -78,32 +103,16 @@ https://galaxyott.live/hls/ntv.m3u8
 https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",Sachin Music Tv
 https://ipcloud.live/sachintv/musichd/index.m3u8
-#EXTINF:-1 tvg-id="MarutamMusic.in@SD" tvg-logo="" group-title="Tamil Music",MNTV Music (1080p)
-https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 tvg-id="ShakthiTV.lk@SD" tvg-logo="" group-title="Tamil Music",Shakthi TV
-https://live.sscloud7.in/live/sakthitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil Music",Jawagar TV
-https://app.ashokadigital.net/app/6a01fb97/index.m3u8
-#EXTINF:-1 group-title="Tamil Music" tvg-logo="",Jayam tv
-https://view.rcserver.in/tmp_hls20/index.m3u8
-#EXTINF:-1 group-title="Tamil Music" tvg-logo="",NTN Tv
-https://live.skystream.in/live/ntntv/index.m3u8?hls_ctx=1314owa2
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",STN tv
 https://play.applelive.in/stntv/stntv.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",tamiloli TV
 https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",rock Tv
 https://apis.avmediawork.in/tvhls/rocktv.m3u8
-#EXTINF:-1 group-title="Tamil Music" tvg-logo="",harin HD Tv
-https://ipcloud.live/harintv/harintvhd/index.m3u8
-#EXTINF:-1 group-title="Tamil Music" tvg-logo="",King Tv
-https://notvstream.in/kingtv/kingtv.m3u8
-#EXTINF:-1 group-title="Tamil Music" tvg-logo="",params Tv
-https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
+
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",sasi Tv
 http://sasitv.phoenixcreations.online/sasitv/sasitv/index.m3u8
-#EXTINF:-1 group-title="Tamil Music" tvg-logo="",rk Tv
-http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
+
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",isaihd Tv
 https://server.sscloud7.in/isaihd/isaihd/index.m3u8
 
@@ -123,24 +132,29 @@ https://rasinetworks.in/live/rasiclassichd/index.mpd
 https://rasinetworks.in/live/rasihollywoodhd/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil Movies",Rasi Movies HD
 https://rasinetworks.in/live/rasimovieshd/index.mpd
-#EXTINF:-1 group-title="Tamil Movies" tvg-logo="",Roja Movies
-https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i9ct2MX.png" group-title="Tamil Movies",Rasi TV 2
 https://rasinetworks.in/live/rasitvhd/index.mpd
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_58_08-PM-1-200x300.png" group-title="Tamil Movies",MCN TV
+https://play.applelive.in/mcntv/mcntv.m3u8
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-6-2025-02_51_42-PM-1-185x278.png" group-title="Tamil Movies",TDN TV
+https://live.maxtn.in/tdn/tdn/index.m3u8
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_43_13-AM-1-200x300.png" group-title="Tamil Movies",Tharun Movies HD
+https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+
+#EXTINF:-1 group-title="Tamil Movies" tvg-logo="",Roja Movies
+https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+
 #EXTINF:-1 group-title="Tamil Movies" tvg-logo="",Max Movies
 https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
-#EXTINF:-1 group-title="Tamil Movies" tvg-logo="",Sana tv
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sana-tv/index.m3u8
-#EXTINF:-1 group-title="Tamil Movies" tvg-logo="",Sana Plus tv
-https://galaxyott.live//hls/sanaplus.m3u8
-#EXTINF:-1 tvg-id="SanaPlus.in@SD" tvg-logo="https://i.imgur.com/N6tKUZv.png" group-title="Tamil Movies",Sana Plus (1080p) [Not 24/7]
-https://galaxyott.live/hls/sanaplus.m3u8
-#EXTINF:-1 tvg-id="SanaTV.in@SD" tvg-logo="https://i.imgur.com/CR7DGBv.png" group-title="Tamil Movies",Sana TV (576p) [Not 24/7]
-https://galaxyott.live/hls/sanatv.m3u8
+
 #EXTINF:-1 tvg-id="UltimateTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-10/2511103396001.jpg" group-title="Tamil Movies",Ultimate TV (1080p)
 https://stream.galaxyott.live/live/utv/index.m3u8
 #EXTINF:-1 group-title="Tamil Movies" tvg-logo="",Thillai tv
 https://stream.onecloudlive.in/tcn/tcntv/index.m3u8
+#EXTINF:-1 tvg-id="SSTVNagercoil" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721756371.PNG" group-title="Tamil Movies",SS TV Nagercoil
+https://server.sscloud7.in/live/sshd/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVNellai" tvg-logo="https://play-lh.googleusercontent.com/PBXlTGaua0z8KSGfcl5Wlkv2Bkr2eGqCWHVj0POSciXosMmHHNalH9jU8XSv-8-3yTiQ=w480-h960-rw" group-title="Tamil Movies",NTV Nellai
+http://ntv.phoenixcreations.online/ntv/ntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil Movies",HiTech TV
 https://app.ashokadigital.net/app/44ae008e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil Movies",Oscar TV
@@ -164,7 +178,10 @@ https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
 http://ttv.7starcloud.com:1935/thirumagal/tv/playlist.m3u8
 #EXTINF:-1 group-title="Tamil Movies" tvg-logo="",Hai Tv
 https://play.applelive.in/stv/stv.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil Music",Jawagar TV
+https://app.ashokadigital.net/app/6a01fb97/index.m3u8
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="",Jayam tv
+https://view.rcserver.in/tmp_hls20/index.m3u8
 
 
 # other tamil channelles
@@ -287,8 +304,6 @@ https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="",nila Tv
 https://live.olidigital.in/nilatv/nilatv/index.m3u8
-#EXTINF:-1 group-title="Tamil" tvg-logo="",malligai Tv
-https://server.sscloud7.in/live/malligai/index.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="",smcv Tv
 https://singamcloud.in/smcvtv/smcvtv/index.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="",yogaa Tv
@@ -355,36 +370,13 @@ https://cdn-4.pishow.tv/live/1531/master.m3u8
 
 # Sports 
 
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c96957383c33f1948e34fdcc07fbc29f" group-title="Sports",Star Sport Select 1
+https://tvsen6.aynascope.net/spsel1/index.m3u8?e=1767889266&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b462589cff0c8a519e4304508f555ecb
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64fb82ecdef7d8b182c944c639c4f8b7" group-title="Sports",Star Sports 1 HD
+https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1767889267&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b9c1acf8767f77ca384bebc1b6a9758a
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/daeac3b0e17bfabd911bd5dc63c69aa8" group-title="Sports",STAR SPORTS 2 HD
+https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1767889259&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=06a13f2af3640a70d9024b4186aebaef
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
-https://d8.merichunidya.com:1686/hls/star1in.m3u8?md5=c7B8cXWr6iemEOXOLHUe1w&expires=1767716560|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",Sky Sport Nz 1
-https://d7.merichunidya.com:1686/hls/sky1nz.m3u8?md5=If4xnnkuqvQzOt_fJBD5Cw&expires=1767716563|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",TNT 1
-https://d6.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=TGvz7z7IKn_wg6OZa1QlmA&expires=1767716562|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png",Willow HD
-https://d7.merichunidya.com:1686/hls/willowusa.m3u8?md5=asBpH8CzgXM3op0AZGfhiA&expires=1767716561|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png",Willow HD 2
-https://d5.merichunidya.com:1686/hls/willowextra.m3u8?md5=GRZUxOzuWbqx320ilbwX6w&expires=1767716561|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",TNT 1
-https://d6.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=TGvz7z7IKn_wg6OZa1QlmA&expires=1767716562|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
-#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",TNT 2
-https://d10.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=GEGuFMTvgoh4a5ztSRGx-w&expires=1767716562|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
-#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",TNT 3
-https://d7.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=1Z65HhFvcl2SPldr55ScEQ&expires=1767716562|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
-#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",TNT 4
-https://d2.merichunidya.com:1686/hls/bbtespn.m3u8?md5=_bvYYnHv8-xOHAAWSJ4-TQ&expires=1767716563|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/6-by-xfireflix.png",Fox Cricket 501 HD
-https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=08zBx7TDrcYJp-BoruNUbQ&expires=1767716566|http-referrer=https://profamouslife.com/&http-origin=https://profamouslife.com
 
 
 #EXTINF:-1 tvg-id="StarSports1.in@SD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 (576p)
