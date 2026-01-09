@@ -13,8 +13,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/in
 
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Tunes 6
 http://103.140.254.2:3500/live/803.m3u8
-#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Raj musix
-http://103.140.254.2:3500/live/748.m3u8
+
 
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Adithya TV
 http://103.140.254.2:3500/live/709.m3u8
@@ -53,7 +52,9 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/in
 
 #EXTINF:-1 tvg-id="IsaiAruvi.in@SD" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="Tamil Music",Isai Aruvi (576p)
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-#EXTINF:-1 tvg-id="MKSix.in@SD" tvg-logo="https://i.imgur.com/wZjEssv.png" group-title="Tamil Music",MK Six (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tamil Music",Raj musix
+http://103.140.254.2:3500/live/748.m3u8
+#EXTINF:-1 tvg-id="MKSix.in@SD" tvg-logo="https://i.imgur.com/wZjEssv.png" group-title="Tamil Music",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_00_53-AM-1-185x278.png",7Star Music
 https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
@@ -69,6 +70,13 @@ https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 https://live.sscloud7.in/live/sakthitv/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",King Tv
 https://notvstream.in/kingtv/kingtv.m3u8
+
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-28-2025-02_57_02-PM-200x300.png",thamilaaram Tv
+https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-chorigin/live/ThamilaaramTV/index_sess970594975.m3u8
+
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-08_57_34-AM-1-185x278.png",Thaai TV
+https://ap02.iqplay.tv:8082/hls/thailive/playlist.m3u8
+
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",harin HD Tv
 https://ipcloud.live/harintv/harintvhd/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-id="VTV" tvg-logo="https://play-lh.googleusercontent.com/YUc9M2Gii20Jy5a-dpmR6958-2c1wOMYyO0Jddy9nDqyIp0KdvF8s17sLdzD4ECg4Ws=w480-h960-rw",V TV
@@ -116,10 +124,15 @@ http://sasitv.phoenixcreations.online/sasitv/sasitv/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",isaihd Tv
 https://server.sscloud7.in/isaihd/isaihd/index.m3u8
 
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="",Tet Tv
+https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/e91cb3c0facbe277/fbbd0aee3d9a82602500/chunks.m3u8
+
 
 
 # Tamil Movies
 
+#EXTINF:18 tvg-chno="1" group-title="Tamil",  GTA Tamil
+http://144.217.77.42:8888/gta_tamil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i9ct2MX.png" group-title="Tamil Movies",Rasi TV
 https://rasinetworks.in/live/rasitamilhd/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil Movies",Rasi Movies
@@ -673,23 +686,27 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 # news
 
-#EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="News",Polimer News (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0lg/index.m3u8
-#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-logo="https://i.imgur.com/Hgp4sQq.png" group-title="News",Puthiya Thalaimurai (576p)
+#EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="News",Polimer News
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-logo="https://i.imgur.com/Hgp4sQq.png" group-title="News",Puthiya Thalaimurai
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
-#EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-logo="https://i.imgur.com/200ROjU.png" group-title="News",Thanthi TV (576p)
+#EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-logo="https://i.imgur.com/200ROjU.png" group-title="News",Thanthi TV 
 https://cdn-3.pishow.tv/live/1612/master.m3u8
+#EXTINF:-1 tvg-id="News7.in@SD" tvg-logo="https://oxolive.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-10-2025-05_33_18-PM-185x278.png" group-title="News",News 7
+https://segment.yuppcdn.net/240122/news7/240122/news7_1800/chunks.m3u8
+
 #EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="News",News Tamil 24x7 (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
 
 
-#EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" tvg-logo="https://i.imgur.com/M92IDhq.png" group-title="News",Malai Murasu TV (720p) [Not 24/7]
-https://cdn-3.pishow.tv/live/1606/master.m3u8
 #EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-logo="https://i.imgur.com/RqeF8RR.png" group-title="News",News J (720p)
 https://cdn-3.pishow.tv/live/1279/master.m3u8
 #EXTINF:-1 tvg-id="TamilJanam.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Janam_Tamil.png" group-title="News",Tamil Janam (720p)
 https://app.ashokadigital.net/app/324ea1b0/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://oxolive.com/wp-content/uploads/2025/05/ChatGPT-Image-May-24-2025-05_31_32-PM-200x300.png" group-title="News",Win News
+https://cdn-4.pishow.tv/live/1531/master.m3u8
 
 
 
@@ -753,6 +770,14 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://oxolive.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-8-2026-08_16_24-AM-1-200x300.png",RetroCrush Anime
+https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/mainManifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://oxolive.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-6-2026-09_33_42-AM-1-200x300.png",Pink Panther
+https://linear-1069.frequency.stream/dist/tcltv/1069/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://oxolive.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-1-2026-09_44_45-PM-1-200x300.png",Kids Plus
+https://amg02040-lguplus-amg02040c9-lg-sg-7620.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02040-lguplus-kidsplus-lgsg/cb573917657b67909bc33f78d2f34482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f9e65840896ea1b0011dc12e40fa83439fd401ea85d7528311d723a215cb9af488851582e4d659966f74eb24224054b7c21cbac759bfdbe80653fe501b36d5d17bc1e99a6f2f8f46393390632f9217963dcf8e20936338b20cda3becdd2747d86b93cf34ca99bad24b4d798ac55f746dc88fc6dca96c63ed34a9e081a9023cb86717d47a894da1b1548a9fc2f027a48979b7a52a84fb421234cb90519aa77fe285bfa045862cc6cbf5d7680c1e234c358f53a6957ac869f34ce89f436f0c16049a935b92d2821e28341bcfc07fc40317bcec8e81f4072f8535480da6338f1b4d47e4004150a96df5933769c9010f863e32b218168850f3b529baf68fb6486bfb8e8912bf5ceeb30bc0ff4dfc3e6b1751e58059352f7b74deea691a2339921596b4e4d5375850a2a7b7bdaa351f0836105e09f192c4788981cd2c5d5b81642f6e701f008546b14dda13421421d914b1fa5194e4b9cccf4dc1d8c715e2295967a1f538b63ab210c452/68/1280x720_2657019/index.m3u8
 
 
 # Hindi Movies
