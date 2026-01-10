@@ -1,4 +1,5 @@
 #EXTM3U
+# https://anywhere.pwisetthon.com/
 # Tamil Prime
 #EXTINF:-1 tvg-id="SunTV.in@SD" tvg-logo="https://i.imgur.com/Z0HJi56.png" group-title="Tamil",Sun TV dolby(1080p)
 https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
@@ -57,7 +58,7 @@ http://103.140.254.2:3500/live/748.m3u8
 #EXTINF:-1 tvg-id="MKSix.in@SD" tvg-logo="https://i.imgur.com/wZjEssv.png" group-title="Tamil Music",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-8-2025-08_00_53-AM-1-185x278.png",7Star Music
-https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
+https://app.ashokadigital.net/app/9346e98d/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-08_23_30-AM-1-200x300.png",V Muziq HD
 https://stream.ashokadigital.net/vmusic/vmusic/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",params Tv
@@ -70,12 +71,42 @@ https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 https://live.sscloud7.in/live/sakthitv/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",King Tv
 https://notvstream.in/kingtv/kingtv.m3u8
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_32_32-PM-1-200x300.png",Amma Vison
+https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
 
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-28-2025-02_57_02-PM-200x300.png",thamilaaram Tv
 https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-chorigin/live/ThamilaaramTV/index_sess970594975.m3u8
 
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-08_57_34-AM-1-185x278.png",Thaai TV
 https://ap02.iqplay.tv:8082/hls/thailive/playlist.m3u8
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-08_57_34-AM-1-185x278.png",Thaai TV 2
+https://ap02.iqplay.tv:8082/hls/thailive/1_2/index.m3u8?tkn=3266500226
+
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-25-2025-05_20_49-PM-1-200x300.png",Gem Tv
+https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-07_42_23-AM-1-200x300.png",Raga Tv
+https://live.onecloudlive.in/ragatv/ragatvhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-03_37_37-PM-1-200x300.png",Riya Tv
+https://play.applelive.in/riyatv/riyatv.m3u8
+
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-2-2025-08_29_50-AM-1-200x300.png",D Tv
+https://stream.d6-pro.com/Dtv/live/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-08_53_23-AM-1-200x300.png",Time Tv
+https://live.olidigital.in/timetv/timetv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="",Thendral Tv
+https://ipcloud.live/thendralmdu/madurai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="",Mathi Tv
+https://notvstream.in/mathitv/mathitv.m3u8
+
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="",Roja LTv
+https://anywhere.pwisetthon.com/http://rojatv.phoenixcreations.online/rojatv/rojatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",harin HD Tv
 https://ipcloud.live/harintv/harintvhd/index.m3u8
@@ -149,6 +180,9 @@ https://rasinetworks.in/live/rasimovieshd/index.mpd
 https://rasinetworks.in/live/rasitvhd/index.mpd
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_58_08-PM-1-200x300.png" group-title="Tamil Movies",MCN TV
 https://play.applelive.in/mcntv/mcntv.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-13-2025-07_19_16-AM-1-200x300.png" group-title="Tamil Movies",Bharathi
+https://server.sscloud7.in/live/bharathitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Nov-6-2025-02_51_42-PM-1-185x278.png" group-title="Tamil Movies",TDN TV
 https://live.maxtn.in/tdn/tdn/index.m3u8
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_43_13-AM-1-200x300.png" group-title="Tamil Movies",Tharun Movies HD
@@ -464,6 +498,8 @@ https://tvsen6.aynaott.com/asports/index.m3u8
 
 # Movies 
 
+#EXTINF:-1 group-title="Movies" tvg-id="",Grande TV
+https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="MoviesNow.in@HD",Sony pix
 http://103.178.78.151:7505/play/a0vl/index.m3u8
@@ -539,6 +575,17 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 https://fl1.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="",HBO 2
 https://fl1.moveonjoy.com/HBO_2/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Movies" ,HBO HD
+http://185.18.56.26:8888/hbo1/index.m3u8
+#EXTINF:-1 group-title="Movies" ,HBO 2 HD
+http://185.18.56.26:8888/hbo2/index.m3u8
+#EXTINF:-1 group-title="Movies" ,HBO 3 HD
+http://185.18.56.26:8888/hbo3/index.m3u8
+#EXTINF:-1 group-title="Movies" ,HBO FAMILY
+https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="",HBO Plus
 https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd?&keyId=861ab989089891d84ad0da296954437c&key=3bdf94f9fc1888529f8d27d070d38566
 #EXTINF:-1 group-title="Movies" tvg-logo="",AXN
@@ -565,16 +612,6 @@ https://fl1.moveonjoy.com/STARZ/index.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="Movies" ,HBO HD
-http://185.18.56.26:8888/hbo1/index.m3u8
-#EXTINF:-1 group-title="Movies" ,HBO 2 HD
-http://185.18.56.26:8888/hbo2/index.m3u8
-#EXTINF:-1 group-title="Movies" ,HBO 3 HD
-http://185.18.56.26:8888/hbo3/index.m3u8
-#EXTINF:-1 group-title="Movies" ,HBO FAMILY
-https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 
 #EXTINF:-1 group-title="Movies" , AXN BLACK
@@ -654,21 +691,21 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Movies",MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Movies", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 
 # information
 
-#EXTINF:-1 tvg-id="NationalGeographic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Information",National Geographic East
-https://fl1.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png" group-title="Information",Animal Planet HD
-https://allottplay.com/tv/toffee/live.php?id=animal_planet_hd&e=.m3u8
 
-#EXTINF:-1 group-title="Information" ,Animal Planet s3
+#EXTINF:-1 group-title="Information" ,Animal Planet
 http://103.140.254.2:3500/live/567.m3u8
+
 #EXTINF:-1 group-title="Information" ,DISCOVERY SCIENCE
 http://103.140.254.2:3500/live/568.m3u8
 #EXTINF:-1 tvg-id="354" tvg-logo="http://103.175.242.10/assets/images/National%20Geographic1731468376.png" group-title="Information",National Geographic 
 http://stvlive.net:8080/natgeo/index.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://i.imgur.com/zNJKdRf.png" group-title="Information",History TV18 HD (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://i.imgur.com/zNJKdRf.png" group-title="Information",History TV18 HD W
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png" group-title="Information",Star Plus HD
