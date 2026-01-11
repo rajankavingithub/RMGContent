@@ -247,6 +247,9 @@ https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 group-title="Tamil Movies" tvg-logo="",smiley Tv
 https://live1.sscloud7.com/live/smileytv/index.m3u8
 
+#EXTINF:-1 tvg-id="HansithaTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1767717103_H1.png&w=1920&q=75" group-title="Tamil Movies",Hansitha TV
+https://hd.rojatv.cloud/hansitha/tv/index.m3u8
+
 # other tamil channelles
 
 
@@ -932,6 +935,26 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640
 
 #EXTINF:-1 group-title="Hindi Movies" , & pictures HDD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/main.mpd?&keyId=8dea532cabfe4f71ba20f62310e7949f&key=7a214a974e4f4d1d9bb66364d5f0cb92
+
+
+
+
+#EXTINF:-1 group-title="Hindi Movies" , Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+
+#EXTINF:-1 group-title="Hindi Movies" , Goldmines Mov
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+
+#EXTINF:-1 group-title="Hindi Movies" , Goldmines Mov2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Hindi Movies" , ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+
 
 # Hindi Music
 
