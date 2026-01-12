@@ -370,10 +370,7 @@ https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1 tvg-id="360" group-title="Movies" tvg-logo="http://103.175.242.10/assets/images/Star%20Movies1731469513.png",Star Movies 
 http://stvlive.net:8080/starmovies/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="MoviesNow.in@HD",Sony pix
-http://103.178.78.151:7505/play/a0vl/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="MoviesNow.in@HD",Movies Now HD (1080p)
-http://103.167.255.18:8085/play/a0lr/index.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-id="MNX.in@SD",MNX (576p)
 http://103.167.255.18:8085/play/a0oj/index.m3u8   
 
@@ -381,12 +378,7 @@ http://103.167.255.18:8085/play/a0oj/index.m3u8
 
 #EXTINF:-1 tvg-id="360" group-title="Movies" tvg-logo="https://cdn.oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-17-2025-10_02_18-PM-1-200x300.png",Star Movies Other
 https://webtvstream.bhtelecom.ba/star_movies.m3u8
-#EXTINF:-1 group-title="Movies" ,Zee Cafe s2
-http://103.182.170.32:8888/play/a01w
-#EXTINF:-1 tvg-id="Andflix.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/512px-%26flix_2025.svg.png" group-title="Movies",&flix
-https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
-#EXTINF:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDPRIVE_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&prive HD (1080p)
-http://103.167.255.18:8085/play/a0m4/index.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="",Sony Action Hits
@@ -411,32 +403,16 @@ https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 group-title="Movies" tvg-logo="",Sony One Blaklist
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AMC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East (1080p)
-#EXTINF:-1 tvg-id="iFilmEnglish.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",iFilm English
-https://live.presstv.ir/hls/ifilmen.m3u8
-#EXTINF:-1 tvg-id="MGMPlusDriveIn.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png" group-title="Movies",MGM+ Drive-In
-https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlus.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png" group-title="Movies",MGM+ East
-https://fl1.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusMarquee.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png" group-title="Movies",MGM+ Marquee
-https://fl1.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 tvg-id="SkyCinemaFamily.uk@HD" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="Movies",Sky Cinema Family HD (1080p)
-https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535776-1/playlist.m3u8
 #EXTINF:-1 tvg-id="StarzEncoreClassic.us@East" tvg-logo="https://i.imgur.com/L6GjoS4.png" group-title="Movies",Starz Encore Classic East
 https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="Starz.us@West" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Movies",Starz West
-https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="",Film Sci tv
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814517/hls/master.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="",Film Action
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814502/hls/master.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="",Newflix Movies
-source=https://newfhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="",HBO Movies
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
-#EXTINF:-1 group-title="Movies" tvg-logo="",HBO Hits
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="",Newflix Movies
+https://newfhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",HBO Movies 
+https://anywhere.pwisetthon.com/https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="",HBO Hits 
+https://anywhere.pwisetthon.com/https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="",HBO 1
 https://fl1.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="",HBO 2
@@ -455,7 +431,7 @@ https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="",HBO Plus
 https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd?&keyId=861ab989089891d84ad0da296954437c&key=3bdf94f9fc1888529f8d27d070d38566
 #EXTINF:-1 group-title="Movies" tvg-logo="",AXN
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+https://anywhere.pwisetthon.com/https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 group-title="Movies" ,AXN 2s
 http://185.18.56.26:8888/axn/index.m3u8
 #EXTINF:-1 group-title="Movies" ,AXN 3s
@@ -465,7 +441,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&id=24145&type=mp4
 #EXTINF:-1 group-title="Movies" tvg-logo="",LG 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957&id=24148&type=mp4
 #EXTINF:-1 group-title="Movies" tvg-logo="",Weddo Movies
-https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/playlist/videosolu-w4freemovies-samsunguk/playlist.m3u8&id=23371&type=mp4
+https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/playlist/videosolu-w4freemovies-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="",AMC plus
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_1/chunklist.m3u8
 
@@ -691,12 +667,6 @@ https://webtvstream.bhtelecom.ba/star_channel.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="",Grande TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="",Grande TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 
 
 # information
