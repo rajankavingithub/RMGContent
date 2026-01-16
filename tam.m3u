@@ -1,5 +1,7 @@
 #EXTM3U
 # https://anywhere.pwisetthon.com/
+
+
 # Tamil Prime
 #EXTINF:-1 tvg-id="SunTV.in@SD" tvg-logo="https://i.imgur.com/Z0HJi56.png" group-title="Tamil",Sun TV dolby(1080p)
 https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
@@ -12,9 +14,16 @@ http://103.140.254.2:3500/live/894.m3u8
 #EXTINF:-1 tvg-id="RajTV.in@SD" tvg-logo="https://i.imgur.com/4oF38ei.png" group-title="Tamil",Raj TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
 
+#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Colors Tamil
+http://103.140.254.2:3500/live/429.m3u8
+#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Colors Tamil SD
+http://103.140.254.2:3500/live/1371.m3u8
+
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Tunes 6
 http://103.140.254.2:3500/live/803.m3u8
 
+#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Zee Tamil
+http://103.140.254.2:3500/live/628.m3u8
 
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Adithya TV
 http://103.140.254.2:3500/live/709.m3u8
@@ -26,8 +35,7 @@ http://103.140.254.2:3500/live/683.m3u8
 http://103.140.254.2:3500/live/557.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="News",News18 Tamil Nadu
 https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Colors Tamil
-http://103.140.254.2:3500/live/429.m3u8
+
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",J Movie
 http://103.140.254.2:3500/live/417.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="" group-title="Tamil",Jaya Tv
@@ -52,6 +60,8 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/in
 #EXTINF:-1 tvg-id="PuthuyugamTV.in@SD" tvg-logo="https://i.imgur.com/HjwKtSJ.png" group-title="Tamil",Puthuyugam TV 
 http://103.140.254.2:3500/live/824.m3u8
 
+#EXTINF:-1 tvg-id="DDTamil.in@SD" group-title="Tamil",DD Tamil (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
 
 # Tamil Music
 
@@ -302,7 +312,25 @@ https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
 #EXTINF:-1 tvg-id="VaanavilTV.in@SD" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="Tamil",Vaanavil TV (720p)
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DeivaOli" group-title="Tamil",Deiva Oli
+https://stream.sscloud7.in/live/deivaoli/index.m3u8
 
+#EXTINF:-1 tvg-id="VedhaTV" group-title="Tamil",Vedha TV
+https://skystream.in/live/vedha6528/index.m3u8
+
+#EXTINF:-1 tvg-id="OmSakthiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107774_rannig%2520logo%2520copy%2520(1).png&w=1920&q=75" group-title="Tamil",Om Sakthi TV
+https://live1.sscloud7.com/live/omsakthitv/index.m3u8
+
+#EXTINF:-1 tvg-id="AnandhamTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Anandham-TV-logo_2000_X_1125_Transpharent.png" group-title="Tamil",Anandham TV (GalaxyOTT/JioTV)
+https://stream.galaxyott.live/live/anandhamtv/index.m3u8
+#EXTINF:-1 tvg-id="AnandhamTVCloud7" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1753975377_ANANTHAM%2520TV%2520LOGO.png&w=1080&q=75" group-title="Tamil",Anandham TV (Cloud7)
+https://live1.sscloud7.com/live/anandhamtv/index.m3u8
+
+#EXTINF:-1 tvg-id="DarkTelevision" tvg-logo="https://play-lh.googleusercontent.com/GPwEalUw7RIHmutwfZpIS1RtFSIXYk6nzvht_bnRj8nT2PW-WqcDX4LjZeqTSLDwwT0=w512-h960-rw" group-title="Tamil",Dark Television
+https://play.applelive.in/darktv/darktv.m3u8
+
+#EXTINF:-1 tvg-id="APSTV" tvg-logo="https://play-lh.googleusercontent.com/Y1Ep3pQQX7hmPAJqHFAHUW3S9loYRAcGqW5atgySe7k4PGrN60jz1s1HxNzLedpVJiU=w512-h960-rw" group-title="Tamil",APS TV
+http://apstv.phoenixcreations.online/apstv/apstv/index.m3u8
 
 # Sports 
 
@@ -382,6 +410,10 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 
 
 # Movies 
+#EXTINF:-1 group-title="Movies" tvg-id="MNX.in@SD",Colors Inf 1
+http://103.140.254.2:3500/live/1158.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="MNX.in@SD",Colors Inf 2
+http://103.140.254.2:3500/live/1325.m3u8
 
 #EXTINF:-1 tvg-id="360" group-title="Movies" tvg-logo="http://103.175.242.10/assets/images/Star%20Movies1731469513.png",Star Movies 
 http://stvlive.net:8080/starmovies/index.m3u8
@@ -714,6 +746,14 @@ https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies" ,My Cinema
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" group-title="Movies",Noovo Cinéma (1080p)
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movies",Noovo Comédies (1080p)
+https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movies",Noovo Téléréalités (1080p)
+https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
+
 # information
 
 
@@ -773,10 +813,6 @@ https://cdn-4.pishow.tv/live/1531/master.m3u8
 
 # Kids
 
-#EXTINF:-1 group-title="Kids" tvg-id="MoviesNow.in@HD",Movies Now HD (1080p)
-http://103.167.255.18:8085/play/a0lr/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="MNX.in@SD",MNX (576p)
-http://103.167.255.18:8085/play/a0oj/index.m3u8
 
 #EXTINF:-1 tvg-id="Chithiram.in@SD" tvg-logo="https://i.imgur.com/xv9cWSh.png" group-title="Kids",Chithiram (576p)
 https://cdn-6.pishow.tv/live/1243/master.m3u8
@@ -843,6 +879,9 @@ https://amg02040-lguplus-amg02040c9-lg-sg-7620.playouts.now.amagi.tv/ts-eu-w1-n2
 
 
 # Hindi Movies
+
+#EXTINF:-1 tvg-id="ZeeTVCanada.ca@SD" group-title="Hindi Movies",Zee TV Canada (1080p)
+https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
 
 #EXTINF:-1 tvg-id="307" tvg-logo="http://103.175.242.10/assets/images/Colors%20HD1731406975.png" group-title="Hindi Movies",Colors HD
 http://stvlive.net:8080/colorshd/index.m3u8
