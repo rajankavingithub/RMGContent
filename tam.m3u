@@ -1363,5 +1363,273 @@ https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBC WORLD" tvg-logo=" " group-title="TERRESTRIAL TV",BBC WORLD (IND)
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i0.wp.com/tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/10/05/duronto_1.jpg?w=640&ssl=1",Durantoo Tv
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/433.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: KHUSHBOO TV BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d60bd7b.png" group-title="BENGALI" ,BD: KHUSHBOO TV BANGLA
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/3808.ts
+#EXTINF:-1 tvg-id="ts905" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62236-kny7yzaw-v1/imageContent-62236-kny7yzaw-m1.png" group-title="Hindi;Kids",ETV Bal Bharat
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355286.ts
+#EXTINF:-1 group-title="Arab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png",Disney International HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/20925.ts
+#EXTINF:-1 tvg-id="ts114" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Hindi;Animation;Kids;Cartoons",Disney 
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/19741.ts
+#EXTINF:-1 tvg-id=""tvg-group="Cartoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9F3Qdt_xLS63UROdf4leWQhrknaJ92URx0Q&s",Nick Bangla
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/205.ts
+#EXTINF:-1 tvg-id=1226 tvg-name="Nick HD+" tvg-logo="http://14.102.123.50:5001/jtvimage/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/7438.ts
+#EXTINF:-1 tvg-id="ts239" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Telugu;Hindi;Tamil;Animation;Kids;Cartoons",Pogo
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/7220.ts
+#EXTINF:-1 tvg-id="ts119" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Telugu;Malayalam;Kannada;Hindi;Tamil;Animation;Kids;Cartoons",Discovery Kids
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/208.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="KIDS" group-title="",Cartoon Network HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/8.m3u8
+#EXTINF:-1 tvg-id="ts587" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="English;Telugu;Hindi;Tamil;Animation;Kids;Cartoons",Super Hungama
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/66162.ts
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8HES2tUB4reIXMjiMJk-z9EBknI5aazdcw&s",Hungama tv
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/18456.ts
+#EXTINF:-1 tvg-id=""tvg-group="Cartoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtDovzBn80q0LPKyV_vo9ISpHa5uNBDBmzA&s",Sonic Bangla
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/207.ts
+#EXTINF:-1 tvg-id="ts965" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67799-kx7m7rhc-v1/imageContent-67799-kx7m7rhc-m2.png" group-title="Hindi;Entertainment",Manoranjan Grand
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/2433.ts
+#EXTINF: -1 tvg-name="Kids Zon" group-title="Indian Regional", Kids Zon
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/4084.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm7ZxGBaQF0GiQwTSGqaax2Q5v2MWnfLuyKeMLMR0hYpTiQL7F_YWN8xA&s=10",Sinchen
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147724.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxTzYJerGSc9D06JEt-xGbB8-f5Kwp1ITCq3il0JQjPRf3leqJ6rsEezsy&s=10",Perman
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147736.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd9MjRlL2jrjnhfHApO0ixbL1omr7QOLcC9Zjpcengqx-Ht_ExVrVqY_S-&s=10",Doraemon
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147746.ts
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/FzHFbZ92/images-6-1.jpg",kung fu panda
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147738.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVRx2KOXImi3auWLotXKDNfTHmI74xSEnErICy1DisSyYqTsfFQXgviBh&s=10",Mr Been
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147777.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT86cdj_zcE45Wa8B8JcHma6T7IPCC1dQE0ew&s",BEN 10 ULTIMATE ALIEN
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147743.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdnsGbhgegFUg44_b1dXR86k0_hU68okWXg&s",BEN 10 OMNIVERSE
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147749.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e7eMs9ij-8hE3pUJii8iVQFoRO6XdkjZxA&s",BEN TEN CLASSIC
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147750.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYdkmKmndjX8M3Iz-spuapBA2aifgu_6cQBSBtNrKvewbr7encDJVMQn3&s=10",BEN 10 ALIEN FORCE HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147751.ts
+#EXTINF:-1,Kids:  Cartoon Network Arabia HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319402.ts
+#EXTINF:-1,Kids: Toyor Aljana
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319403.ts
+#EXTINF:-1,Kids:  SpaceToon TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319404.ts
+#EXTINF:-1,Kids: Rotana Kids HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319405.ts
+#EXTINF:-1,Kids:  Karamesh
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319406.ts
+#EXTINF:-1,Kids:  OSN Kids Zone HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319407.ts
+#EXTINF:-1,Kids | Ar: NickToons HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319408.ts
+#EXTINF:-1,Kids: OSN Nickelodeon HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319409.ts
+#EXTINF:-1,Kids: Baby TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319410.ts
+#EXTINF:-1,Kids:  HodHod  TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319411.ts
+#EXTINF:-1,Kids:  Taha TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319412.ts
+#EXTINF:-1,Kids: Majid Kids TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319413.ts
+#EXTINF:-1,Kids | Ar: Shehab TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319414.ts
+#EXTINF:-1,Kids:  Atfal & Mawaheb
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319415.ts
+#EXTINF:-1,Kids | En: NickToons HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319416.ts
+
+
+#EXTINF:-1, IN: Pogo_Hindi
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/1918.ts
+#EXTINF:-1,IN: POGO (ENGLISH)
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/7220.ts
+#EXTINF:-1,IN: Disney Channel (4K)
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/19741.ts
+#EXTINF:-1,Kids: Hungama
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/18456.ts
+#EXTINF:-1,KIDS: SUPER HUNGAMA
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/66162.ts
+#EXTINF:-1,IN:  Nick_Hindi
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/205.ts
+#EXTINF:-1,IN: Nick+ FHD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/7438.ts
+#EXTINF:-1,IN: NICK (4K).
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/98880.ts
+#EXTINF:-1,IN: Nick_Junior
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/206.ts
+#EXTINF:-1,IN: sonic_Hindi
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/207.ts
+#EXTINF:-1,IN: Discovery_Kids_1
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/208.ts
+#EXTINF:-1,IN : CARTOON NETWORK HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/8.ts
+#EXTINF:-1,KIDS-SPIDER MAN 2008
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147720.ts
+#EXTINF:-1,KIDS-SPIDER MAN 1981
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147721.ts
+#EXTINF:-1,KIDS-SPIDER MAN 1967
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147722.ts
+#EXTINF:-1,KIDS-SLUGTERRA
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147723.ts
+
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147724.ts
+#EXTINF:-1,KIDS-SHAPE RHYMES
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147725.ts
+#EXTINF:-1,KIDS-SAMURAI JACK
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147726.ts
+#EXTINF:-1,KIDS-POPEYE THE SAILOR MAN
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147727.ts
+#EXTINF:-1,KIDS-PJ MASK
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147728.ts
+#EXTINF:-1,KIDS-PEPPA PIG 2
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147729.ts
+#EXTINF:-1,KIDS-PEPPA PIG
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147730.ts
+
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147731.ts
+#EXTINF:-1,KIDS-NURSERY RHYMES HD 4
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147732.ts
+
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147733.ts
+#EXTINF:-1,KIDS-PAW PETROL TOY STORY
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147734.ts
+#EXTINF:-1,KIDS-PAW PETROL
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147735.ts
+#EXTINF:-1,KIDS-PERMAN
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147736.ts
+
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147737.ts
+#EXTINF:-1,KIDS-KUNG FU PANDA
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147738.ts
+
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147739.ts
+#EXTINF:-1,KIDS-GENERTOX REX
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147740.ts
+#EXTINF:-1,KIDS-FRUITS VEGETABLE RHYMES
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147741.ts
+#EXTINF:-1,KIDS-FIVE LITTLE RHYMES
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147742.ts
+#EXTINF:-1,KIDS-BEN 10 ULTIMATE ALIEN
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147743.ts
+#EXTINF:-1,KIDS-DUCK TALES HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147744.ts
+#EXTINF:-1,KIDS-DUCK TALES CLASSIC
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147745.ts
+#EXTINF:-1,KIDS-DORAEMON
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147746.ts
+#EXTINF:-1,KIDS-COLOUR RHYMES HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147747.ts
+#EXTINF:-1,KIDS-CHRISTMAS RHYMES
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147748.ts
+#EXTINF:-1,KIDS-BEN 10 OMNIVERSE
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147749.ts
+#EXTINF:-1,KIDS-BEN TEN CLASSIC
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147750.ts
+#EXTINF:-1,KIDS-BEN 10 ALIEN FORCE HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147751.ts
+#EXTINF:-1,KIDS-ART-FUN
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight147752.ts
+#EXTINF:-1,KIDS-AVATAR THE LAST AIRBENDER HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147753.ts
+#EXTINF:-1,KIDS-ANIMAL RHMYES
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147754.ts
+#EXTINF:-1,KIDS-ANGERY BIRDS TOONS HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147755.ts
+#EXTINF:-1,KIDS-ABCD RHYMES HD 2
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147756.ts
+#EXTINF:-1,KIDS-ABBY HATCHER
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147757.ts
+#EXTINF:-1,KIDS-NURSER RHYMES HD 4
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147758.ts
+#EXTINF:-1,KIDS-STORY
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147759.ts
+#EXTINF:-1,KIDS-BABY TOOT
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147760.ts
+#EXTINF:-1,KIDS-BIRTHDAY SONGS
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147761.ts
+#EXTINF:-1,KIDS-HICKORY DICKORY DOCK
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147762.ts
+#EXTINF:-1,KIDS-BOOM BUDDIES RHYMES HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147763.ts
+#EXTINF:-1,KIDS-BABAY BAO PANDA HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147769.ts
+#EXTINF:-1,KIDS-BABAY RHYMES HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147770.ts
+#EXTINF:-1,KIDS-ANIMAL RHYMES HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147771.ts
+#EXTINF:-1,KIDS-A B C D RHYMES HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147772.ts
+#EXTINF:-1,KIDS-NURSERY RHYMES HD 3
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147773.ts
+#EXTINF:-1,KIDS-NUMBER RHMYES HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147774.ts
+#EXTINF:-1,KIDS-NURSERY RHYMES HD 2
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147776.ts
+#EXTINF:-1,KIDS-MR BEAN HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147777.ts
+#EXTINF:-1,KIDS-RHYMES HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147778.ts
+#EXTINF:-1,KIDS-MASH AND BEAR HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147779.ts
+#EXTINF:-1,KIDS-CHU CHU TV HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147780.ts
+#EXTINF:-1,KIDS: Sonic 24/7
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121290.ts
+#EXTINF:-1,24/7: Kids BooBa
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121314.ts
+#EXTINF:-1,24/7 Kids: Rick And Morty
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121329.ts
+#EXTINF:-1,24/7 Kids: Masha and the Bear
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121337.ts
+#EXTINF:-1,24/7 Kids: Little Baby Bum
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121339.ts
+#EXTINF:-1,24/7 Kids: The Boss Baby_ Back in Business
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121340.ts
+#EXTINF:-1,24/7 Kids: Peppa Pig
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121343.ts
+#EXTINF:-1,24/7 Kids: Blippi
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121368.ts
+#EXTINF:-1,24/7 Kids: Kids: Gabby_s Dollhouse
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121376.ts
+#EXTINF:-1,Kids:  Cartoon Network Arabia HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319402.ts
+#EXTINF:-1,Kids: Toyor Aljana
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319403.ts
+#EXTINF:-1,Kids:  SpaceToon TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319404.ts
+#EXTINF:-1,Kids: Rotana Kids HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319405.ts
+#EXTINF:-1,Kids:  Karamesh
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319406.ts
+#EXTINF:-1,Kids:  OSN Kids Zone HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319407.ts
+#EXTINF:-1,Kids | Ar: NickToons HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319408.ts
+#EXTINF:-1,Kids: OSN Nickelodeon HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319409.ts
+#EXTINF:-1,Kids: Baby TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319410.ts
+#EXTINF:-1,Kids:  HodHod  TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319411.ts
+#EXTINF:-1,Kids:  Taha TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319412.ts
+#EXTINF:-1,Kids: Majid Kids TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319413.ts
+#EXTINF:-1,Kids | Ar: Shehab TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319414.ts
+#EXTINF:-1,Kids:  Atfal & Mawaheb
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319415.ts
+#EXTINF:-1,Kids | En: NickToons HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319416.ts
+#EXTINF:-1,KIDS: ETV Bal Bharat SD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355286.ts
+#EXTINF:-1,PRESS TV (Iran)
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/255847.ts
+
+
 
 
