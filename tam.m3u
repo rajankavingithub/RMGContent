@@ -4,10 +4,10 @@
 
 # Tamil Prime
 
-#EXTINF:-1 tvg-id="SunTV.in@SD" tvg-logo="https://i.imgur.com/Z0HJi56.png" group-title="Tamil",Sun TV dolby(1080p)
+#EXTINF:-1 tvg-id="ts521" tvg-logo="https://i.imgur.com/Z0HJi56.png" group-title="Tamil",Sun TV dolby(1080p)
 https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tamil",Zee Tamil
+#EXTINF:-1 tvg-id="ts608" tvg-logo="" group-title="Tamil",Zee Tamil
 http://103.140.254.2:3500/live/628.m3u8
 #EXTINF:-1 tvg-id="RajTV.in@SD" tvg-logo="https://i.imgur.com/4oF38ei.png" group-title="Tamil",Raj TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
@@ -360,12 +360,14 @@ http://apstv.phoenixcreations.online/apstv/apstv/index.m3u8
 
 # Sports 
 
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://i.ibb.co/WWwQN4jS/STAR-SPORTS-1.png" group-title="Sports",STAR SPORTS 1
+http://poketporota.noobmaster.xyz:8080/STARSPORTS1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Sports",star sports 1 - New
 https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-1/index.m3u8?token=1cc4aa10dc56b4eb4e54784d440f158befb74da9-4d51a0859c2828e4af1badade8de6574-1768653745-1768650145
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/26.png" group-title="Sports",star sports 2
 https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-2/index.m3u8?token=9ecfc16c115d94c573e1ca57c7e012e30b28e4a1-7e1bba2b1bdb313d99ca81f712963ee9-1768653745-1768650145
 
-#EXTINF:-1 tvg-id="StarSports1.in@SD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2 HD (1080p)
@@ -1028,8 +1030,7 @@ http://103.253.18.58:8000/play/a04h
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zhfPRQPd/TEN-SPORTS-HD.png" group-title="Hindi Movies",TEN SPORTS HD
 http://opplex.rw:80/live/7414279085/abc7414279/167569.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WWwQN4jS/STAR-SPORTS-1.png" group-title="Hindi Movies",STAR SPORTS 1
-http://poketporota.noobmaster.xyz:8080/STARSPORTS1HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KzryRdTc/STAR-SPORTS-1-HD.png" group-title="Hindi Movies",STAR SPORTS 1 HD
 http://172.16.29.2:8090/hls/StarSports1HD.m3u8
