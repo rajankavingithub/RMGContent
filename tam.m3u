@@ -91,6 +91,12 @@ https://play.applelive.in/stv/stv.m3u8
 https://play.applelive.in/stntv/stntv.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",params Tv
 https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
+
+#EXTINF:-1 tvg-id="MNMusic" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/01/mn-music.jpg" group-title="Tamil Music",MN Music
+https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 tvg-id="NTNTV" tvg-logo="https://play-lh.googleusercontent.com/V4GL0XO3McjRFJeANzwgRZDjI3UPIEjhMtfq4L9oVthSJo1loNfvkBuoSYE8BdDLvfY=w512-h960-rw" group-title="Tamil Music",NTN TV
+https://live.skystream.in/live/ntntv/index.m3u8?hls_ctx=1314owa2
+
 #EXTINF:-1 group-title="Tamil Music" tvg-id="VTV" tvg-logo="https://play-lh.googleusercontent.com/YUc9M2Gii20Jy5a-dpmR6958-2c1wOMYyO0Jddy9nDqyIp0KdvF8s17sLdzD4ECg4Ws=w480-h960-rw",V TV
 https://play.applelive.in/vtv/vtv.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",rk Tv
@@ -101,11 +107,16 @@ https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 https://live.sscloud7.in/live/sakthitv/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",King Tv
 https://notvstream.in/kingtv/kingtv.m3u8
+#EXTINF:-1 tvg-id="PhoenixTV2" tvg-logo="https://play-lh.googleusercontent.com/CgR5PN5Jd8RTd8XqsUB7-Hq14-pv-Xw7giZfKls-BZMxn3NvnhtBDIh6lO_cp8ykHA8=w480-h960-rw" group-title="Tamil Music",Phoenix TV
+https://anywhere.pwisetthon.com/http://phoenix.phoenixcreations.online/phoenix/phoenix/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_32_32-PM-1-200x300.png",Amma Vison
 https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
 
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-28-2025-02_57_02-PM-200x300.png",thamilaaram Tv
 https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-chorigin/live/ThamilaaramTV/index_sess970594975.m3u8
+
+#EXTINF:-1 tvg-id="SMCVTV" tvg-logo="https://play-lh.googleusercontent.com/QHY-UJodq8HOSLN6waYq91yJMCsu1Cq5toOX6PRffCrE2A8sl-MOdifsRgmq-rl3eA=w512-h960-rw" group-title="Tamil Music",SMCV TV
+https://singamcloud.in/smcvtv/smcvtv/index.m3u8
 
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",Thendral Tv
 https://ipcloud.live/thendralmdu/madurai/tracks-v1a1/mono.m3u8
@@ -214,8 +225,14 @@ https://play.applelive.in/mcntv/mcntv.m3u8
 #EXTINF:-1 tvg-id="DarkTelevision" tvg-logo="https://play-lh.googleusercontent.com/GPwEalUw7RIHmutwfZpIS1RtFSIXYk6nzvht_bnRj8nT2PW-WqcDX4LjZeqTSLDwwT0=w512-h960-rw" group-title="Tamil Movies",Dark Television
 https://play.applelive.in/darktv/darktv.m3u8
 
+#EXTINF:-1 tvg-id="VaniTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168603_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM.jpeg&w=1920&q=75" group-title="Tamil Movies",Vani TV
+https://live.maxtn.in/vanitv/vanitv/index.m3u8
+
 #EXTINF:-1 tvg-id="APSTV" tvg-logo="https://play-lh.googleusercontent.com/Y1Ep3pQQX7hmPAJqHFAHUW3S9loYRAcGqW5atgySe7k4PGrN60jz1s1HxNzLedpVJiU=w512-h960-rw" group-title="Tamil Movies",APS TV
 http://apstv.phoenixcreations.online/apstv/apstv/index.m3u8
+
+#EXTINF:-1 tvg-id="APSGoldTV" tvg-logo="https://play-lh.googleusercontent.com/F42Sh4I3hyV0fcNI6zhaLzdRUIoYqxhQsleL1XgvzCY9jkYYpOJ4PwcNNNGLEr5CoAjK=w512-h960-rw" group-title="Tamil Movies",APS Gold TV
+https://apsgold-a1.tamilstream.in/apsgold/apsgold/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-13-2025-07_19_16-AM-1-200x300.png" group-title="Tamil Movies",Bharathi
 https://server.sscloud7.in/live/bharathitv/tracks-v1a1/mono.m3u8
@@ -223,6 +240,9 @@ https://server.sscloud7.in/live/bharathitv/tracks-v1a1/mono.m3u8
 https://live.maxtn.in/tdn/tdn/index.m3u8
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-09_43_13-AM-1-200x300.png" group-title="Tamil Movies",Tharun Movies HD
 https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+
+#EXTINF:-1 tvg-id="ArunaiTV" tvg-logo="https://play-lh.googleusercontent.com/rx51OW3qTWnBS1n4MFKamvlE80KkK_19X4E-YbzS7ADFI0pjQJaupdroh2EejghwxQ=w512-h960-rw" group-title="Tamil Movies",Arunai TV
+https://notvstream.in/arunaitv/arunaitv.m3u8
 
 #EXTINF:-1 group-title="Tamil Movies" tvg-logo="",Roja Movies
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
