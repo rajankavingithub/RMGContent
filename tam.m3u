@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTM3U x-tvg-url="https://github.com/iptv-org/epg/raw/refs/heads/master/sites/tataplay.com/tataplay.com.channels.xml"
 # https://anywhere.pwisetthon.com/
 
 
@@ -370,7 +370,7 @@ https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2 HD (1080p)
 http://stvlive.net:8080/starsports2/index.m3u8
 
-#EXTINF:-1 tvg-id="ts235" tvg-logo="https://i.ibb.co/5XYC0M5C/STAR-SPORTS-2.png" group-title="Sports",STAR SPORTS 2
+#EXTINF:-1 tvg-id="235" tvg-logo="https://i.ibb.co/5XYC0M5C/STAR-SPORTS-2.png" group-title="Sports",STAR SPORTS 2
 http://poketporota.noobmaster.xyz:8080/STARSPORTS2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0RBDCCZk/STAR-SPORTS-3.png" group-title="Sports",STAR SPORTS 3
 http://poketporota.noobmaster.xyz:8080/STARSPORTS3/tracks-v1a1/mono.m3u8
