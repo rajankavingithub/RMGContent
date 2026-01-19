@@ -81,6 +81,14 @@ https://cdn-3.pishow.tv/live/1253/master.m3u8
 https://app.ashokadigital.net/app/9346e98d/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-08_23_30-AM-1-200x300.png",V Muziq HD
 https://stream.ashokadigital.net/vmusic/vmusic/index.m3u8
+
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="",tamiloli TV
+https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="",Hai Tv
+https://play.applelive.in/stv/stv.m3u8
+
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="",STN tv
+https://play.applelive.in/stntv/stntv.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",params Tv
 https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-id="VTV" tvg-logo="https://play-lh.googleusercontent.com/YUc9M2Gii20Jy5a-dpmR6958-2c1wOMYyO0Jddy9nDqyIp0KdvF8s17sLdzD4ECg4Ws=w480-h960-rw",V TV
@@ -128,8 +136,6 @@ https://rasinetworks.in/live/rasimusichd/index.mpd
 http://stream.advikadigital.in/advika/ssmusic/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",RC Music
 https://view.rcserver.in/tmp_hls2/stream/index.m3u8
-#EXTINF:-1 group-title="Tamil Music" tvg-logo="",jcv Music
-https://play.applelive.in/jcvtv/jcvmusix.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",g music
 https://rtmp.applelive.in/gmusic/gmusic/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",Mtc Tv
@@ -138,10 +144,6 @@ https://galaxyott.live/hls/ntv.m3u8
 https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",Sachin Music Tv
 https://ipcloud.live/sachintv/musichd/index.m3u8
-#EXTINF:-1 group-title="Tamil Music" tvg-logo="",STN tv
-https://play.applelive.in/stntv/stntv.m3u8
-#EXTINF:-1 group-title="Tamil Music" tvg-logo="",tamiloli TV
-https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",rock Tv
 https://apis.avmediawork.in/tvhls/rocktv.m3u8
 
@@ -159,8 +161,6 @@ https://play.applelive.in/shatv/shatv.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",smiley Tv
 https://live1.sscloud7.com/live/smileytv/index.m3u8
 
-#EXTINF:-1 group-title="Tamil Music" tvg-logo="",Hai Tv
-https://play.applelive.in/stv/stv.m3u8
 
 
 # documentary
@@ -182,10 +182,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="South Movies" group-title="documentary",South Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="documentary",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768594714&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8cd3569e92535fc871bce8ed38f9c678
-
 
 
 # Tamil Movies
@@ -214,6 +210,12 @@ https://rasinetworks.in/live/rasimovieshd/index.mpd
 https://rasinetworks.in/live/rasitvhd/index.mpd
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_58_08-PM-1-200x300.png" group-title="Tamil Movies",MCN TV
 https://play.applelive.in/mcntv/mcntv.m3u8
+
+#EXTINF:-1 tvg-id="DarkTelevision" tvg-logo="https://play-lh.googleusercontent.com/GPwEalUw7RIHmutwfZpIS1RtFSIXYk6nzvht_bnRj8nT2PW-WqcDX4LjZeqTSLDwwT0=w512-h960-rw" group-title="Tamil Movies",Dark Television
+https://play.applelive.in/darktv/darktv.m3u8
+
+#EXTINF:-1 tvg-id="APSTV" tvg-logo="https://play-lh.googleusercontent.com/Y1Ep3pQQX7hmPAJqHFAHUW3S9loYRAcGqW5atgySe7k4PGrN60jz1s1HxNzLedpVJiU=w512-h960-rw" group-title="Tamil Movies",APS TV
+http://apstv.phoenixcreations.online/apstv/apstv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-13-2025-07_19_16-AM-1-200x300.png" group-title="Tamil Movies",Bharathi
 https://server.sscloud7.in/live/bharathitv/tracks-v1a1/mono.m3u8
@@ -355,11 +357,7 @@ https://stream.galaxyott.live/live/anandhamtv/index.m3u8
 #EXTINF:-1 tvg-id="AnandhamTVCloud7" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1753975377_ANANTHAM%2520TV%2520LOGO.png&w=1080&q=75" group-title="Tamil",Anandham TV (Cloud7)
 https://live1.sscloud7.com/live/anandhamtv/index.m3u8
 
-#EXTINF:-1 tvg-id="DarkTelevision" tvg-logo="https://play-lh.googleusercontent.com/GPwEalUw7RIHmutwfZpIS1RtFSIXYk6nzvht_bnRj8nT2PW-WqcDX4LjZeqTSLDwwT0=w512-h960-rw" group-title="Tamil",Dark Television
-https://play.applelive.in/darktv/darktv.m3u8
 
-#EXTINF:-1 tvg-id="APSTV" tvg-logo="https://play-lh.googleusercontent.com/Y1Ep3pQQX7hmPAJqHFAHUW3S9loYRAcGqW5atgySe7k4PGrN60jz1s1HxNzLedpVJiU=w512-h960-rw" group-title="Tamil",APS TV
-http://apstv.phoenixcreations.online/apstv/apstv/index.m3u8
 
 # Sports 
 
@@ -397,6 +395,11 @@ https://falconftp.noobmaster.xyz/SONYSPORTS2HD/tracks-v1a1/mono.m3u8
 http://stvlive.net:8080/sonyten3/index.m3u8
 #EXTINF:-1 tvg-id="321"  group-title="Sports" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731408219.png",Sony Ten 5 
 http://stvlive.net:8080/sonyten5/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ymrrHNYc/SONY-SPORTS-TEN-4-HD.png" group-title="Sports",SONY SPORTS TEN 4 HD
+http://poketporota.noobmaster.xyz:8080/SONYSPORTS4/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="321"  group-title="Sports" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731408219.png",Sony Ten 5 s2
 https://falconftp.noobmaster.xyz/SONYSPORTS5HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="431" group-title="Sports" tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png",Tsports 1
@@ -445,6 +448,8 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 
 #EXTINF:-1 tvg-id="360" group-title="Movies" tvg-logo="http://103.175.242.10/assets/images/Star%20Movies1731469513.png",Star Movies 
 http://stvlive.net:8080/starmovies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k2Bd3SgH/STAR-MOVIES-HD.png" group-title="Movies",STAR MOVIES HD
+https://padmaonline.duckdns.org:8088/StarMoviesHD/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="",Movies Now 
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/178.ts
@@ -967,11 +972,6 @@ http://66.102.120.18:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/84jb0JR0/NATIONAL-GEOGRAPHIC-HD.png" group-title="Hindi Movies",NAT GEO HD
 http://poketporota.noobmaster.xyz:8080/NATGEOHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wFxKDBgp/NATIONAL-GEOGRAPHIC-WILD.png" group-title="Hindi Movies",NAT GEO WILD
-http://66.102.120.18:8000/play/a01f/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6RnwmRZ4/NATIONAL-GEOGRAPHIC-WILD-HD.png" group-title="Hindi Movies",NAT GEO WILD HD
-http://66.102.120.18:8000/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIFESTYLE", TRAVEL XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -979,10 +979,6 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ymrrHNYc/SONY-SPORTS-TEN-4-HD.png" group-title="Hindi Movies",SONY SPORTS TEN 4 HD
-http://poketporota.noobmaster.xyz:8080/SONYSPORTS4/tracks-v1a1/mono.m3u8
 
 
 
@@ -1050,11 +1046,7 @@ https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/210.ts
 #EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://i.ibb.co/DgQq0LZL/STAR-GOLD-SELECT-HD.png" group-title="Hindi Movies",STAR GOLD SELECT HD
 http://poketporota.noobmaster.xyz:8080/STARGOLDSELECTHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/273tL0dR/STAR-MOVIES.png" group-title="Hindi Movies",STAR MOVIES
-https://padmaonline.duckdns.org:8088/StarMoviesHD/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k2Bd3SgH/STAR-MOVIES-HD.png" group-title="Hindi Movies",STAR MOVIES HD
-https://padmaonline.duckdns.org:8088/StarMoviesHD/index.m3u8
 
 
 
@@ -1289,6 +1281,9 @@ https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",News Max 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+
+
 
 # other Channels
 
