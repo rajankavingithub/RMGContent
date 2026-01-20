@@ -1,10 +1,10 @@
-#EXTM3U tvg-url="https://github.com/mitthu786/tvepg/raw/refs/heads/main/tataplay/epg.xml.gz"
+#EXTM3U tvg-url="https://www.open-epg.com/files/india2.xml.gz"
 # https://anywhere.pwisetthon.com/
 
 
 # Tamil Prime
 
-#EXTINF:-1 tvg-id="ts521" tvg-name="Sun TV HD" tvg-logo="https://i.imgur.com/Z0HJi56.png" group-title="Tamil",Sun TV dolby(1080p)
+#EXTINF:-1 tvg-id="Sun TV HD.in" tvg-name="Sun TV HD.in" tvg-logo="https://i.imgur.com/Z0HJi56.png" group-title="Tamil",Sun TV dolby(1080p)
 https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
 
 #EXTINF:-1 tvg-id="ts608" tvg-logo="" group-title="Tamil",Zee Tamil
@@ -17,7 +17,7 @@ http://103.140.254.2:3500/live/429.m3u8
 #EXTINF:-1 tvg-id="ts674" tvg-logo="" group-title="Tamil",Colors Tamil SD
 http://103.140.254.2:3500/live/1371.m3u8
 
-#EXTINF:-1 group-title="Tamil"  tvg-id="ts496" tvg-logo="",Vijay Tv
+#EXTINF:-1 group-title="Tamil"  tvg-id="Star Vijay HD.in" tvg-name="Star Vijay HD.in" tvg-logo="",Vijay Tv
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/157.ts
 #EXTINF:-1 group-title="Tamil" tvg-logo="",Vijay Super 
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/1614.ts
@@ -382,7 +382,7 @@ https://live1.sscloud7.com/live/anandhamtv/index.m3u8
 # Sports 
 
 
-#EXTINF:-1 tvg-id="ts78" tvg-name="Star Sports 1 HD" tvg-logo="https://i.ibb.co/WWwQN4jS/STAR-SPORTS-1.png" group-title="Sports",STAR SPORTS 1
+#EXTINF:-1 tvg-id="STAR Sports 1.in" tvg-name="STAR Sports 1.in" tvg-logo="https://i.ibb.co/WWwQN4jS/STAR-SPORTS-1.png" group-title="Sports",STAR SPORTS 1
 http://poketporota.noobmaster.xyz:8080/STARSPORTS1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
