@@ -4,7 +4,7 @@
 
 # Tamil Prime
 
-#EXTINF:-1 tvg-id="ts521" tvg-logo="https://i.imgur.com/Z0HJi56.png" group-title="Tamil",Sun TV dolby(1080p)
+#EXTINF:-1 tvg-id="ts521" tvg-name="Sun TV HD" tvg-logo="https://i.imgur.com/Z0HJi56.png" group-title="Tamil",Sun TV dolby(1080p)
 https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
 
 #EXTINF:-1 tvg-id="ts608" tvg-logo="" group-title="Tamil",Zee Tamil
@@ -382,7 +382,7 @@ https://live1.sscloud7.com/live/anandhamtv/index.m3u8
 # Sports 
 
 
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://i.ibb.co/WWwQN4jS/STAR-SPORTS-1.png" group-title="Sports",STAR SPORTS 1
+#EXTINF:-1 tvg-id="ts78" tvg-name="Star Sports 1 HD" tvg-logo="https://i.ibb.co/WWwQN4jS/STAR-SPORTS-1.png" group-title="Sports",STAR SPORTS 1
 http://poketporota.noobmaster.xyz:8080/STARSPORTS1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
