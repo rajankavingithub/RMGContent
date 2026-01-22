@@ -89,11 +89,21 @@ https://anywhere.pwisetthon.com/http://srnet.bmlive.net:1935/srmusic/myStream/pl
 https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",Hai Tv
 https://play.applelive.in/stv/stv.m3u8
-
+#EXTINF:-1 tvg-id="ATNMedia" tvg-logo="https://play-lh.googleusercontent.com/YEOUTyg7f6df97DebTRF1HwHDW8KxMLPPA8Y9X9GoUAHV-yG_7bZ5ehGitMzw_w5SFc=w512-h960-rw" group-title="Tamil Music",ATN Media
+https://play.applelive.in/atn/atn.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",STN tv
 https://play.applelive.in/stntv/stntv.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",params Tv
 https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
+
+#EXTINF:-1 tvg-id="A1TV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1763730258_132%2520.%2520A1%2520TV.png&w=1920&q=75" group-title="Tamil Music",A1 TV
+https://app.ashokadigital.net/app/7fff5003/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVTrichy" tvg-logo="https://play-lh.googleusercontent.com/g3dRZ3QwjqQN56TtRwVGe8lIx_4a2-HkSTu0Ikuzg3zVXc95COAuDFYBFqSus5l-eA=w480-h960-rw" group-title="Tamil Music",MTV Trichy
+https://stream.iplive.xyz/mtv/mtvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="MMTV2" tvg-logo="https://play-lh.googleusercontent.com/7j4NEUVtJXwNLlS8GlfqO9_g3ba7Gb2Yb6CEZjaCJN2Fy1pUkurUh5ed3N1-r3qjAg=w512-h960-rw" group-title="Tamil Music",MM TV
+https://stream.iplive.xyz/mmtvtc/mmtvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="MNMusic" tvg-logo="https://tamilradios.org/wp-content/uploads/2025/01/mn-music.jpg" group-title="Tamil Music",MN Music
 https://mntv.livebox.co.in/musichls/live.m3u8
@@ -110,6 +120,9 @@ https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 https://live.sscloud7.in/live/sakthitv/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",King Tv
 https://notvstream.in/kingtv/kingtv.m3u8
+
+#EXTINF:-1 tvg-id="3StarTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746107173_3%2520star%2520logo%2520png%2520copy.png&w=1080&q=75" group-title="Tamil Music",3 Star TV
+https://stream.onecloudlive.in/threestartv/threestarhd/index.m3u8
 
 #EXTINF:-1 tvg-id="TSNMusic" tvg-logo="" group-title="Tamil Music",TSN Music
 https://anywhere.pwisetthon.com/http://198.144.149.206:8080/NOTV/VAAGAI/index.m3u8?token=GTR
@@ -268,9 +281,21 @@ https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 #EXTINF:-1 tvg-id="ArunaiTV" tvg-logo="https://play-lh.googleusercontent.com/rx51OW3qTWnBS1n4MFKamvlE80KkK_19X4E-YbzS7ADFI0pjQJaupdroh2EejghwxQ=w512-h960-rw" group-title="Tamil Movies",Arunai TV
 https://notvstream.in/arunaitv/arunaitv.m3u8
 
+#EXTINF:-1 tvg-id="TamilStarTV" tvg-logo="https://yt3.googleusercontent.com/5jWU9n12RzHy-xHpVUbCAQEbqjJJ75nUsfvtHYA5Syg4XF6c2FwLcR3_I35Du_0mzU7edCS4wA=s900-c-k-c0x00ffffff-no-rj" group-title="Tamil Movies",Tamil Star TV
+https://anywhere.pwisetthon.com/http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EzhilTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1740735792_SAVE_20250228_143607.jpg&w=1920&q=75" group-title="Tamil Movies",Ezhil TV
+https://anywhere.pwisetthon.com/http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-id="MalathiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739610852_IMG-20250215-WA0068.jpg&w=1920&q=75" group-title="Tamil Movies",Malathi TV
+https://ipcloud.live/malathitv/malathitv/index.m3u8
+
+#EXTINF:-1 tvg-id="AppleTVNagercoil" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/apple%20tv.png" group-title="Tamil Movies",Apple TV Nagercoil
+https://play.applelive.in/appletv/appletv.m3u8
+
 #EXTINF:-1 tvg-id="ME24Tamil" group-title="Tamil Movies",ME24 Tamil
 https://stream.onecloudlive.in/orange/ME24TAMIL/index.m3u8
-
+#EXTINF:-1 tvg-id="EmperorTV" group-title="Tamil Movies",Emperor TV
+https://rtmp.bmlive.net/bms/emperortv/stream.m3u8
 #EXTINF:-1 tvg-id="RSTV" group-title="Tamil Movies",RS TV
 https://stream.onecloudlive.in/rstv/rstvhd/index.m3u8
 
@@ -312,7 +337,7 @@ https://account21.livebox.co.in/oscartvhls/live.m3u8
 #EXTINF:-1 group-title="Tamil Movies" tvg-logo="",CTN TV
 https://live.olidigital.in/ctnchannel/ctnchannel/index.m3u8
 #EXTINF:-1 group-title="Tamil Movies" tvg-logo="",QMaxPlus tv
-https://view.rcserver.in/tmp_hls21/qmaxtv/index.m3u8
+https://view.rcserver.in/tmp_hls23/qmaxtv/index.m3u8
 #EXTINF:-1 group-title="Tamil Movies" tvg-logo="",Apple tv
 https://view.rcserver.in/tmp_hls18/index.m3u8
 
