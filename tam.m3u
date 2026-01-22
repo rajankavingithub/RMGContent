@@ -82,6 +82,9 @@ https://app.ashokadigital.net/app/9346e98d/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-08_23_30-AM-1-200x300.png",V Muziq HD
 https://stream.ashokadigital.net/vmusic/vmusic/index.m3u8
 
+#EXTINF:-1 tvg-id="SRMusix" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240625_0713451452390300174130287.png" group-title="Tamil Music",SR Musix
+https://anywhere.pwisetthon.com/http://srnet.bmlive.net:1935/srmusic/myStream/playlist.m3u8
+
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",tamiloli TV
 https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",Hai Tv
@@ -107,6 +110,14 @@ https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 https://live.sscloud7.in/live/sakthitv/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",King Tv
 https://notvstream.in/kingtv/kingtv.m3u8
+
+#EXTINF:-1 tvg-id="TSNMusic" tvg-logo="" group-title="Tamil Music",TSN Music
+https://anywhere.pwisetthon.com/http://198.144.149.206:8080/NOTV/VAAGAI/index.m3u8?token=GTR
+
+
+#EXTINF:-1 tvg-id="BamaTV" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240224_025831756712452387924318.png" group-title="Tamil Music",Bama TV
+https://anywhere.pwisetthon.com/http://indiamatrix.in/bamahd/bamahd.m3u8
+
 #EXTINF:-1 tvg-id="PhoenixTV2" tvg-logo="https://play-lh.googleusercontent.com/CgR5PN5Jd8RTd8XqsUB7-Hq14-pv-Xw7giZfKls-BZMxn3NvnhtBDIh6lO_cp8ykHA8=w480-h960-rw" group-title="Tamil Music",Phoenix TV
 https://anywhere.pwisetthon.com/http://phoenix.phoenixcreations.online/phoenix/phoenix/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-10-2025-09_32_32-PM-1-200x300.png",Amma Vison
@@ -122,13 +133,26 @@ https://singamcloud.in/smcvtv/smcvtv/index.m3u8
 https://ipcloud.live/thendralmdu/madurai/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",Mathi Tv
 https://notvstream.in/mathitv/mathitv.m3u8
+#EXTINF:-1 tvg-id="RVTamil" group-title="Tamil Music",RV Tamil
+https://ipcloud.live/rvtv/rvtvhd/index.m3u8
+#EXTINF:-1 tvg-id="AadhavanColours" tvg-logo="https://play-lh.googleusercontent.com/nuubOwnutfaQfo3YS37g0og2JD_XeeOPlztGfHAPRiwKlxwyNUxbmHyvfo-zCfdBYUZ2ahHXrxVBvrr3ziz3prg=w512-h960-rw" group-title="Tamil Music",Aadhavan Colours
+https://live.olidigital.in/aadhavantvcolours/aadhavantvcolours/index.m3u8
 
-#EXTINF:-1 group-title="Tamil Music" tvg-logo="",Roja LTv
-https://anywhere.pwisetthon.com/http://rojatv.phoenixcreations.online/rojatv/rojatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ArammTV" tvg-logo="https://play-lh.googleusercontent.com/l8pRSESzaMShO9uvpib8hr5x9x8iltkzvVSQVewH5cYevDPFzmt1Aznr50utJchZbkTu=w512-h960-rw" group-title="Tamil Music",Aramm TV
+https://singamcloud.in/arammtv/arammtv/index.m3u8
 
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",harin HD Tv
 https://ipcloud.live/harintv/harintvhd/index.m3u8
 
+#EXTINF:-1 tvg-id="MKPTV" group-title="Tamil Music",MKP TV
+https://anywhere.pwisetthon.com/http://mkpcloud.publicvm.com:1935/mkptv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AKTV" tvg-logo="https://play-lh.googleusercontent.com/Sa701M4EmCXAk4QPnWVoAR5yiBr9Wq5nvfEx0tGFsdyVPRRP4qsuwUn2dF_40hNmWw8=w480-h960-rw" group-title="Tamil Music",AK TV
+https://stream.onecloudlive.in/aktvhd/aktv/index.m3u8
+
+#EXTINF:-1 tvg-id="TigerTV" group-title="Tamil Music",Then TV
+https://stream.onecloudlive.in/tigertv/tigertvhd/index.m3u8
 
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-12-2025-12_15_57-PM-1-200x300.png",Temple TV
 https://app.ashokadigital.net/app/2666f7b8/index.m3u8
@@ -243,6 +267,12 @@ https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 
 #EXTINF:-1 tvg-id="ArunaiTV" tvg-logo="https://play-lh.googleusercontent.com/rx51OW3qTWnBS1n4MFKamvlE80KkK_19X4E-YbzS7ADFI0pjQJaupdroh2EejghwxQ=w512-h960-rw" group-title="Tamil Movies",Arunai TV
 https://notvstream.in/arunaitv/arunaitv.m3u8
+
+#EXTINF:-1 tvg-id="ME24Tamil" group-title="Tamil Movies",ME24 Tamil
+https://stream.onecloudlive.in/orange/ME24TAMIL/index.m3u8
+
+#EXTINF:-1 tvg-id="RSTV" group-title="Tamil Movies",RS TV
+https://stream.onecloudlive.in/rstv/rstvhd/index.m3u8
 
 #EXTINF:-1 group-title="Tamil Movies" tvg-logo="",Roja Movies
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
@@ -810,6 +840,8 @@ https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 # information
 
 
+#EXTINF:-1 group-title="Information" ,Adventure Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Information" ,Animal Planet
 http://103.140.254.2:3500/live/567.m3u8
