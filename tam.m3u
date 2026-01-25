@@ -4,7 +4,7 @@
 
 # Tamil Prime
 
-#EXTINF:-1 tvg-id="Sun TV HD.in" tvg-name="Sun TV HD.in" tvg-logo="https://i.imgur.com/Z0HJi56.png" group-title="Tamil",Sun TV HD.in
+#EXTINF:-1 tvg-id="Sun Tv.in" tvg-name="Sun Tv.in" tvg-logo="https://i.imgur.com/Z0HJi56.png" group-title="Tamil",Sun Tv.in
 https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
 
 #EXTINF:-1 tvg-id="ts608" tvg-logo="" group-title="Tamil",Zee Tamil
@@ -58,9 +58,10 @@ https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
 
 # Tamil Music
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5XmVz5Hm/SUN-MUSIC-HD.png" group-title="Tamil Music",SUN MUSIC HD
-https://mini.allinonereborn.fun/jiotv-www/app/ts_live_895.m3u8
+#EXTINF:-1 tvg-id="ShakthiTV.lk@SD" tvg-logo="" group-title="Tamil Music",Shakthi TV
+https://live.sscloud7.in/live/sakthitv/index.m3u8
+#EXTINF:-1 tvg-id="SMCVTV" tvg-logo="https://play-lh.googleusercontent.com/QHY-UJodq8HOSLN6waYq91yJMCsu1Cq5toOX6PRffCrE2A8sl-MOdifsRgmq-rl3eA=w512-h960-rw" group-title="Tamil Music",SMCV TV
+https://singamcloud.in/smcvtv/smcvtv/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",Sun Music 
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/159.ts
 #EXTINF:-1 tvg-id="SunmusicTV.in@SD" tvg-logo="" group-title="Tamil Music",Sun Music
@@ -73,6 +74,11 @@ http://103.140.254.2:3500/live/748.m3u8
 http://103.140.254.2:3500/live/803.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",7sMusic Tv
 https://mumt03.tangotv.in/7SMUSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="SriSaiTV" tvg-logo="https://i.ibb.co/JFzHmL4C/Sai-TV.jpg" group-title="Tamil Music",Sri Sai TV
+https://annainew.livebox.co.in/srisaihls/live.m3u8
+#EXTINF:-1 tvg-id="IsaiSaaral" tvg-logo="https://i.ibb.co/4RCVPdb5/1000136628.jpg" group-title="Tamil Music",Isai Saaral
+http://srnet.bmlive.net:1935/isaisaral/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="MarutamTV.in@SD" tvg-logo="https://i.imgur.com/cFNw4Af.png" group-title="Tamil Music",MNTV (1080p)
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="MKSix.in@SD" tvg-logo="https://i.imgur.com/wZjEssv.png" group-title="Tamil Music",MK Six
@@ -116,8 +122,9 @@ https://play.applelive.in/vtv/vtv.m3u8
 http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",thirai issai
 https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
-#EXTINF:-1 tvg-id="ShakthiTV.lk@SD" tvg-logo="" group-title="Tamil Music",Shakthi TV
-https://live.sscloud7.in/live/sakthitv/index.m3u8
+
+#EXTINF:-1 tvg-id="AppleTVNagercoil" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/apple%20tv.png" group-title="Tamil Music",Apple TV Nagercoil
+https://play.applelive.in/appletv/appletv.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",King Tv
 https://notvstream.in/kingtv/kingtv.m3u8
 
@@ -139,8 +146,7 @@ https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-28-2025-02_57_02-PM-200x300.png",thamilaaram Tv
 https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-chorigin/live/ThamilaaramTV/index_sess970594975.m3u8
 
-#EXTINF:-1 tvg-id="SMCVTV" tvg-logo="https://play-lh.googleusercontent.com/QHY-UJodq8HOSLN6waYq91yJMCsu1Cq5toOX6PRffCrE2A8sl-MOdifsRgmq-rl3eA=w512-h960-rw" group-title="Tamil Music",SMCV TV
-https://singamcloud.in/smcvtv/smcvtv/index.m3u8
+
 
 #EXTINF:-1 group-title="Tamil Music" tvg-logo="",Thendral Tv
 https://ipcloud.live/thendralmdu/madurai/tracks-v1a1/mono.m3u8
@@ -164,6 +170,8 @@ https://anywhere.pwisetthon.com/http://mkpcloud.publicvm.com:1935/mkptv/myStream
 #EXTINF:-1 tvg-id="AKTV" tvg-logo="https://play-lh.googleusercontent.com/Sa701M4EmCXAk4QPnWVoAR5yiBr9Wq5nvfEx0tGFsdyVPRRP4qsuwUn2dF_40hNmWw8=w480-h960-rw" group-title="Tamil Music",AK TV
 https://stream.onecloudlive.in/aktvhd/aktv/index.m3u8
 
+#EXTINF:-1 group-title="Tamil Music" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-2-2025-08_29_50-AM-1-200x300.png",D Tv
+https://stream.d6-pro.com/Dtv/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TigerTV" group-title="Tamil Music",Then TV
 https://stream.onecloudlive.in/tigertv/tigertvhd/index.m3u8
 
@@ -262,6 +270,9 @@ https://play.applelive.in/mcntv/mcntv.m3u8
 #EXTINF:-1 tvg-id="DarkTelevision" tvg-logo="https://play-lh.googleusercontent.com/GPwEalUw7RIHmutwfZpIS1RtFSIXYk6nzvht_bnRj8nT2PW-WqcDX4LjZeqTSLDwwT0=w512-h960-rw" group-title="Tamil Movies",Dark Television
 https://play.applelive.in/darktv/darktv.m3u8
 
+#EXTINF:-1 tvg-id="KanchiMedia" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0013388576810840645126860.png" group-title="Tamil Movies",Kanchi Media
+http://198.144.149.206:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
+
 #EXTINF:-1 tvg-id="VaniTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168603_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM.jpeg&w=1920&q=75" group-title="Tamil Movies",Vani TV
 https://live.maxtn.in/vanitv/vanitv/index.m3u8
 
@@ -289,8 +300,6 @@ https://anywhere.pwisetthon.com/http://198.144.149.206:8080/NOTV/EZHILTV/index.m
 #EXTINF:-1 tvg-id="MalathiTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739610852_IMG-20250215-WA0068.jpg&w=1920&q=75" group-title="Tamil Movies",Malathi TV
 https://ipcloud.live/malathitv/malathitv/index.m3u8
 
-#EXTINF:-1 tvg-id="AppleTVNagercoil" tvg-logo="https://tamiltvchannels.com/img/tamil%20local/apple%20tv.png" group-title="Tamil Movies",Apple TV Nagercoil
-https://play.applelive.in/appletv/appletv.m3u8
 
 #EXTINF:-1 tvg-id="ME24Tamil" group-title="Tamil Movies",ME24 Tamil
 https://stream.onecloudlive.in/orange/ME24TAMIL/index.m3u8
@@ -321,8 +330,7 @@ https://live.onecloudlive.in/ragatv/ragatvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Tamil Movies" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-03_37_37-PM-1-200x300.png",Riya Tv
 https://play.applelive.in/riyatv/riyatv.m3u8
 
-#EXTINF:-1 group-title="Tamil Movies" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-2-2025-08_29_50-AM-1-200x300.png",D Tv
-https://stream.d6-pro.com/Dtv/live/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 group-title="Tamil Movies" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-08_53_23-AM-1-200x300.png",Time Tv
